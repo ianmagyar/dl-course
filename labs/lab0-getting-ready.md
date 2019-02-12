@@ -1,6 +1,6 @@
 # Lab 0: Getting ready!
 
-V rámci tohto predmetu budeme programovať v jazyku Python a pri vytváraní a trénovaní modelov hlbokého učenia budeme používať framework tensorflow a knižnicu Keras. Tento návod vám pomôže pri nastavení programovacieho prostredia.
+V rámci tohto predmetu budeme programovať v jazyku Python a pri vytváraní a trénovaní modelov hlbokého učenia budeme používať framework TensorFlow a knižnicu Keras. Tento návod vám pomôže pri nastavení programovacieho prostredia.
 
 ## Krok 1: Inštalácia Pythonu
 Na tomto predmete budeme používať Python verziu 3.6, ktorú si môžete stiahnuť z [web stránky jazyka](https://www.python.org/downloads/release/python-368/). My ale odporúčame nainštalovať inú distribúciu Pythonu [Anaconda](https://www.anaconda.com), ktorá obsahuje niekoľko predinštalovaných knižníc pre prácu s údajmi a strojové učenie.
@@ -30,15 +30,15 @@ python -m pip install matplotlib --upgrade
 python -m pip install scipy --upgrade
 ```
 
-## Krok 2: Inštalácia tensorflow a Keras
-Tensorflow a Keras ako aj ďalšie knižnice nainštalujete pomocou `pip`. Do príkazového riadku Anacondy zadajte príkazy:
+## Krok 2: Inštalácia TensorFlow a Keras
+TensorFlow a Keras ako aj ďalšie knižnice nainštalujete pomocou `pip`. Do príkazového riadku Anacondy zadajte príkazy:
 
 ```
 python -m pip install tensorflow
 python -m pip install keras
 ```
 
-Knižnice `tensorflow` a `Keras` sa nainštalujú automaticky spolu s potrebnými dependencies. V prípade problémov sa obráťte na stránky [tensorflow](https://www.tensorflow.org/install/pip) a [Keras](https://keras.io/#installation).
+Knižnice `TensorFlow` a `Keras` sa nainštalujú automaticky spolu s potrebnými dependencies. V prípade problémov sa obráťte na stránky [TensorFlow](https://www.tensorflow.org/install/pip) a [Keras](https://keras.io/#installation).
 
 ## Krok 3: Skontrolujte si inštaláciu
 V príkazovom riadku spusťte Python zadaním príkazu `python` a následne skúsťte naimportovať nainštalované knižnice:

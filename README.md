@@ -20,8 +20,8 @@ Pridajte sa do [facebookovej skupiny predmetu](https://www.facebook.com/groups/3
 ## Plán prednášok a cvičení
 |                            |                                                               Prednáška                                                              |                     Cvičenie                    |
 |----------------------------|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------:|
-| 1. týždeň<br>11. 2. - 17. 2.  |                                                 Opakovanie základov neurónových sietí                                                |          Základy frameworku tensorflow          |
-| 2. týždeň<br>18. 2. - 24. 2.  |                          Kohonenove siete, Hopfieldove siete,<br>Hebbove učenie, restricted Boltzmann machines                          |              Základy knižnice Keras             |
+| 1. týždeň<br>11. 2. - 17. 2.  |                                                 Opakovanie základov neurónových sietí                                                |          základy frameworku tensorflow          |
+| 2. týždeň<br>18. 2. - 24. 2.  |                          Kohonenove siete, Hopfieldove siete,<br>Hebbove učenie, restricted Boltzmann machines                          |              základy knižnice Keras             |
 | 3. týždeň<br>25. 2. - 3. 3.   |                                      Úvod do hlbokých neurónových sietí<br>(deep neural networks)                                       |              deep learning v Kerase             |
 | 4. týždeň<br>4. 3. - 10. 3.   |                                                      DNN pre spracovanie obrazu                                                      |           deep reinforcement learning           |
 | 5. týždeň<br>11. 3. - 17. 3.  |                                                      Konvolučné neurónové siete                                                      | deep reinforcement learning<br>s vizuálnym inputom |
