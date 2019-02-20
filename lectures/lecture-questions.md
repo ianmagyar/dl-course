@@ -13,11 +13,11 @@
 10. Intuícia pri práci s neurónovými sieťami.
 
 ## Prednáška 2
-1. Základné topológie NN pre nekontrolované učenie ich aplikácie
+1. Základné topológie NN pre nekontrolované učenie a ich aplikácie
 2. Konkurenčné a kooperačné prepojenia NS, princípy učenia bez učiteľa, princíp WTA
-3. Kohonenove siete, princíp, susedstvá v Kohonenovej siete, Kohonenov diagram
+3. Kohonenove siete, princíp, susedstvá v Kohonenovej sieti, Kohonenov diagram
 4. Ojova sieť pre výpočet PCA - základný princíp
-5. Princip zhlukovania sieťami ATR
+5. Princíp zhlukovania sieťami ATR
 6. Princíp neurónových sietí typu MFARTMAP
 7. Analýza príznakového priestoru, problém kontextuálnych a texturalných príznakov.
 8. Diskusia ku cvičeniam Keras
