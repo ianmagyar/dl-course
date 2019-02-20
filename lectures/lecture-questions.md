@@ -11,3 +11,13 @@
 8. Gradientové učenie v chybovom priestore, Boltzmannov stroj, Hebbove učenie.
 9. Čo je univerzálna aproximačná teoréma neurónových sietí.
 10. Intuícia pri práci s neurónovými sieťami.
+
+## Prednáška 2
+1. Základné topológie NN pre nekontrolované učenie ich aplikácie
+2. Konkurenčné a kooperačné prepojenia NS, princípy učenia bez učiteľa, princíp WTA
+3. Kohonenove siete, princíp, susedstvá v Kohonenovej siete, Kohonenov diagram
+4. Ojova sieť pre výpočet PCA - základný princíp
+5. Princip zhlukovania sieťami ATR
+6. Princíp neurónových sietí typu MFARTMAP
+7. Analýza príznakového priestoru, problém kontextuálnych a texturalných príznakov.
+8. Diskusia ku cvičeniam Keras
