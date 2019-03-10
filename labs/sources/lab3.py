@@ -41,17 +41,22 @@ class DQNAgent:
         # Neural Net for Deep-Q learning Model
         model = Sequential()
         # TODO: add layers
-
+        model.add(Dense(24, input_dim=self.state_size, activation='relu'))
+        model.add(Dense(24, activation='relu'))
+        model.add(Dense(self.action_size, activation='linear'))
+        model.compile(loss='mse',
+                      optimizer=Adam(lr=self.learning_rate))
         return model
 
     def remember(self, state, action, reward, next_state, done):
         # TODO: remember experience
-        pass
+        self.memory.append((state, action, reward, next_state, done))
 
     def act(self, state):
         # random action selection with probability self.epsilon
         # TODO:
-
+        if np.random.rand() < self.epsilon:
+            return random.randrange(self.action_size)
         # otherwise select the action with the highest Q value
         act_values = self.model.predict(state)
         return np.argmax(act_values[0])
@@ -112,7 +117,7 @@ if __name__ == "__main__":
             if done:
                 # if game ended, finish episode
                 print("episode: {}/{}, score: {}, e: {:.2}"
-                      .format(e, EPISODES, time, agent.epsilon))
+                      .format(e + 1, EPISODES, time, agent.epsilon))
                 break
             if len(agent.memory) > batch_size:
                 # if enough experience is available, replay
