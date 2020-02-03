@@ -1,39 +1,56 @@
-# Základy hĺbkového učenia
+# Introduction to Deep Learning
 
-Vítame vás na stránke predmetu **Základy hĺbkového učenia**, ktorý sa vyučuje v letnom semestri prvého ročníka inžinierskeho štúdia na študijnom programe Inteligentné systémy. Tento predmet nadväzuje na kurz *Neurónové siete*. Na tejto stránke nájdete všetky informácie o predmete ako aj podklady k prednáškam a cvičeniam.
+Welcome to the web page of the class **Introduction to Deep Learning** at the Technical University of Košice, a course that is taught in the summer semester in the first year of MSc. studies for students of Intelligent Systems. The course is a continuation of the course *Neural networks*. This web page provides all necessary information and materials for the course.
 
-Pridajte sa do [facebookovej skupiny predmetu](https://www.facebook.com/groups/399506727470364/).
+Join us in our [facebook group](https://www.facebook.com/groups/617872348947148/).
 
-## Podmienky pre udelenie zápočtu
-1. účasť na prednáškach a cvičeniach (max. 3 neúčasti)
-2. napísať písomku 20. 3.
-3. príspevok o aplikáciach DNN
-4. týždenný report oponentov prednášok
-5. zadania
- - článok o neurónových sieťach a DNN
- - projekt v Kerase (dvaja študenti)
+## Grading
+To successfully pass this course, you have to meet the following requirements: 
 
-## Bonusové body
-1. Pomoc pri písaní skrípt o DNN v slovenčine - bez záverečnej skúšky
-2. Prísť s myšlienkou na startup využívajúci DNN na cloude a urobiť experimenty (následne ich prezentovať na web stránke) - nemusia ísť na ústnu časť záverečnej skúšky
+1. attendance at lectures and labs (3 absences at most)
+2. hand in the semestral project (see lower)
+3. get at least 21 points during the semester
+4. pass the exam (get at least 31 points)
 
-## Plán prednášok a cvičení
-|                            |                                                               Prednáška                                                              |                     Cvičenie                    |
-|----------------------------|:---------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------:|
-| 1. týždeň<br>11. 2. - 17. 2.  |                                                 Opakovanie základov neurónových sietí                                                |          základy frameworku tensorflow          |
-| 2. týždeň<br>18. 2. - 24. 2.  |                          Kohonenove siete, Hopfieldove siete,<br>Hebbove učenie, restricted Boltzmann machines                          |              základy knižnice Keras             |
-| 3. týždeň<br>25. 2. - 3. 3.   |                                      Úvod do hlbokých neurónových sietí<br>(deep neural networks)                                       |              deep learning v Kerase             |
-| 4. týždeň<br>4. 3. - 10. 3.   |                                                      DNN pre spracovanie obrazu                                                      |           deep reinforcement learning           |
-| 5. týždeň<br>11. 3. - 17. 3.  |                                                      Konvolučné neurónové siete                                                      | deep reinforcement learning<br>s vizuálnym inputom |
-| 6. týždeň<br>18. 3. - 24. 3.  |                                                           **písomka z teórie**                                                           | konvolučné neurónové siete<br>rozpoznávanie číslic |
-| 7. týždeň<br>25. 3. - 31. 3.  |                                             **namiesto prednášky bude<br>tento týždeň cvičenie**                                            |            konvolučné neurónové siete           |
-| 8. týždeň<br>1. 4. - 7. 4.    |  Vanishing gradient, RBM neurónové siete,<br>autoencodery, deep belief networks<br>Integrácia znalostí o konvolučných neurónových sieťach |  **namiesto cvičenia bude<br>tento týždeň prednáška**  |
-| 9. týždeň<br>8. 4. - 14. 4.   |                                        Integrácia znalostí o konvolučných neurónových sieťach                                       |               reporting projektov               |
-| 10. týždeň<br>15. 4. - 21. 4. |                                        Integrácia znalostí o konvolučných neurónových sieťach                                       |            RBM a deep belief networks           |
-| 11. týždeň<br>22. 4. - 28. 4. |                                                         **záverečné stretnutie**                                                         |                   autoencodery                  |
-| 12. týždeň<br>29. 4. - 5. 5.  |                                                                   -                                                                  |              **odovzdávanie projektov**             |
+## Course plan
+|                         | Lectures |                              Labs                            |             Team project             |
+|:-----------------------:|:--------:|:------------------------------------------------------------:|:------------------------------------:|
+| Week 1<br>17. 2. - 23. 2.  |    TBA   |         web deployment tutorial<br>(Andrij David, MSc.)         | creating teams, choosing assignments |
+| Week 2<br>24. 2. - 1. 3.   |    TBA   |   basics of Python, Tensorflow and Keras<br>(Ján Magyar, MSc.)  |                                      |
+| Week 3<br>2. 3. - 8. 3.    |    TBA   |    convolutional NN for detection<br>(Fouzia Adjailia, MSc.)    |            research report           |
+| Week 4<br>9. 3. - 15. 3.   |    TBA   |          evaluation of CNNs<br>(Miroslav Jaščur, MSc.)          |                                      |
+| Week 5<br>16. 3. - 22. 3.  |    TBA   | CNN for segmentation and its evaluation<br>(Patrik Sabol, MSc.) |    system design and architecture    |
+| Week 6<br>23. 3. - 29. 3.  |    TBA   |   RNN for time series and tabural data<br>(Andrij David, MSc.)  |                                      |
+| Week 7<br>17. 2. - 23. 2.  |    TBA   |         RNN for text processing<br>(Andrij David, MSc.)         |                                      |
+| Week 8<br>30. 3. - 5. 4.   |    TBA   |                presentation of first versions                |           proof of concept           |
+| Week 9<br>6. 4. - 12. 4.   |    TBA   |                            Easter                            |                                      |
+| Week 10<br>13. 4. - 19. 4. |    TBA   |      generative adversarial networks<br>(Ján Magyar, MSc.)      |            progress report           |
+| Week 11<br>20. 4. - 26. 4. |    TBA   |       deep reinforcement learning<br>(Lukáš Hruška, MSc.)       |                                      |
+| Week 12<br>27. 4. - 3. 5.  |    TBA   |                    handing in assignments                    |             final version            |
+| Week 13<br>4. 3. - 10. 3.  |    TBA   |                               —                              |                   —                  |
 
-## Zdroje
+## Assignment
+During the semester, each student must participate in the completion of an assignment. Assignments are done by teams of three or four students. Each team project must contain the following:
+
+ - a specified research goal
+ - an overview of state-of-the-art solutions
+ - front-end application deployed on a server
+ - a trained DL model
+ - documentation
+ - a research paper presenting the results of the team project (the paper can be published in academic journals).
+
+Topics:
+
+1. assignment in cooperation with Geodeticca, s.r.o. (consultant Patrik Sabol, MSc.)
+2. assignment in cooperation with US Steel (consultant Norbert Ferenčík, MSc.)
+3. processing the Guatemala dataset (consultant Miroslav Jaščur, MSc.)
+4. *topic to be announced* (consultant Andrij David, MSc.)
+5. GANs in HMI research (consultant Ján Magyar, MSc.)
+6. deep reinforcement learning (consultant Lukáš Hruška, MSc.)
+7. *topic to be announced* (consultant Fouzia Adjailia, MSc.)
+8. explainable AI (consultant Ivan Čík, MSc.)
+
+## Sources
  - [Deep Learning Simplified](https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu )
  - [Maths of Intelligence](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
  - [Convolutional Neural Networks](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
