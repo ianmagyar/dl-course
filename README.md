@@ -13,21 +13,21 @@ To successfully pass this course, you have to meet the following requirements:
 4. pass the exam (get at least 31 points)
 
 ## Course plan
-|                         | Lectures |                              Labs                            |             Team project             |
-|:-----------------------:|:--------:|:------------------------------------------------------------:|:------------------------------------:|
+|                            | Lectures |                               Labs                              |             Team project             |
+|:--------------------------:|:--------:|:---------------------------------------------------------------:|:------------------------------------:|
 | Week 1<br>17. 2. - 23. 2.  |    TBA   |         web deployment tutorial<br>(Andrij David, MSc.)         | creating teams, choosing assignments |
 | Week 2<br>24. 2. - 1. 3.   |    TBA   |   basics of Python, Tensorflow and Keras<br>(Ján Magyar, MSc.)  |                                      |
 | Week 3<br>2. 3. - 8. 3.    |    TBA   |    convolutional NN for detection<br>(Fouzia Adjailia, MSc.)    |            research report           |
 | Week 4<br>9. 3. - 15. 3.   |    TBA   |          evaluation of CNNs<br>(Miroslav Jaščur, MSc.)          |                                      |
 | Week 5<br>16. 3. - 22. 3.  |    TBA   | CNN for segmentation and its evaluation<br>(Patrik Sabol, MSc.) |    system design and architecture    |
 | Week 6<br>23. 3. - 29. 3.  |    TBA   |   RNN for time series and tabural data<br>(Andrij David, MSc.)  |                                      |
-| Week 7<br>17. 2. - 23. 2.  |    TBA   |         RNN for text processing<br>(Andrij David, MSc.)         |                                      |
-| Week 8<br>30. 3. - 5. 4.   |    TBA   |                presentation of first versions                |           proof of concept           |
-| Week 9<br>6. 4. - 12. 4.   |    TBA   |                            Easter                            |                                      |
-| Week 10<br>13. 4. - 19. 4. |    TBA   |      generative adversarial networks<br>(Ján Magyar, MSc.)      |            progress report           |
-| Week 11<br>20. 4. - 26. 4. |    TBA   |       deep reinforcement learning<br>(Lukáš Hruška, MSc.)       |                                      |
-| Week 12<br>27. 4. - 3. 5.  |    TBA   |                    handing in assignments                    |             final version            |
-| Week 13<br>4. 3. - 10. 3.  |    TBA   |                               —                              |                   —                  |
+| Week 7<br>30. 3. - 5. 4.   |    TBA   |         RNN for text processing<br>(Andrij David, MSc.)         |                                      |
+| Week 8<br>6. 4. - 12. 4.   |    TBA   |                  presentation of first versions                 |           proof of concept           |
+| Week 9<br>13. 4. - 19. 4.  |    TBA   |     generative adversarial networks<br>(Ján Magyar, MSc.)       |                                      |
+| Week 10<br>20. 4. - 26. 4. |    TBA   |                            Easter                               |            progress report           |
+| Week 11<br>27. 4. - 3. 5.  |    TBA   |       deep reinforcement learning<br>(Lukáš Hruška, MSc.)       |                                      |
+| Week 12<br>4. 5. - 10. 5.  |    TBA   |                      handing in assignments                     |             final version            |
+| Week 13<br>11. 5. - 17. 5. |    TBA   |                                 —                               |                   —                  |
 
 ## Assignment
 During the semester, each student must participate in the completion of an assignment. Assignments are done by teams of three or four students. Each team project must contain the following:
