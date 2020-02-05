@@ -23,8 +23,8 @@ To successfully pass this course, you have to meet the following requirements:
 | Week 6<br>23. 3. - 29. 3.  |    TBA   |   RNN for time series and tabural data<br>(Andrij David, MSc.)  |                                      |
 | Week 7<br>30. 3. - 5. 4.   |    TBA   |         RNN for text processing<br>(Andrij David, MSc.)         |                                      |
 | Week 8<br>6. 4. - 12. 4.   |    TBA   |                  presentation of first versions                 |           proof of concept           |
-| Week 9<br>13. 4. - 19. 4.  |    TBA   |     generative adversarial networks<br>(Ján Magyar, MSc.)       |                                      |
-| Week 10<br>20. 4. - 26. 4. |    TBA   |                            Easter                               |            progress report           |
+| Week 9<br>13. 4. - 19. 4.  |    TBA   |                            Easter                               |                                      |
+| Week 10<br>20. 4. - 26. 4. |    TBA   |     generative adversarial networks<br>(Ján Magyar, MSc.)       |            progress report           |
 | Week 11<br>27. 4. - 3. 5.  |    TBA   |       deep reinforcement learning<br>(Lukáš Hruška, MSc.)       |                                      |
 | Week 12<br>4. 5. - 10. 5.  |    TBA   |                      handing in assignments                     |             final version            |
 | Week 13<br>11. 5. - 17. 5. |    TBA   |                                 —                               |                   —                  |
