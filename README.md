@@ -45,7 +45,7 @@ Topics:
 2. assignment in cooperation with US Steel (consultant Norbert Ferenčík, MSc.)
 3. processing the Guatemala dataset (consultant Miroslav Jaščur, MSc.)
 4. *topic to be announced* (consultant Andrij David, MSc.)
-5. GANs in HMI research (consultant Ján Magyar, MSc.)
+5. [Super-resolution with GANs](assignments/superresolution-with-gans.md) (consultant Ján Magyar, MSc.)
 6. deep reinforcement learning (consultant Lukáš Hruška, MSc.)
 7. *topic to be announced* (consultant Fouzia Adjailia, MSc.)
 8. explainable AI (consultant Ivan Čík, MSc.)
