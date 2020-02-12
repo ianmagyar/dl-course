@@ -5,7 +5,7 @@ Welcome to the web page of the class **Introduction to Deep Learning** at the Te
 Join us in our [facebook group](https://www.facebook.com/groups/617872348947148/).
 
 ## Grading
-To successfully pass this course, you have to meet the following requirements: 
+To successfully pass this course, you have to meet the following requirements:
 
 1. attendance at lectures and labs (3 absences at most)
 2. hand in the semestral project (see lower)
@@ -18,7 +18,7 @@ To successfully pass this course, you have to meet the following requirements:
 | Week 1<br>17. 2. - 23. 2.  |    TBA   |         web deployment tutorial<br>(Andrij David, MSc.)         | creating teams, choosing assignments |
 | Week 2<br>24. 2. - 1. 3.   |    TBA   |   basics of Python, Tensorflow and Keras<br>(Ján Magyar, MSc.)  |                                      |
 | Week 3<br>2. 3. - 8. 3.    |    TBA   |    convolutional NN for detection<br>(Fouzia Adjailia, MSc.)    |            research report           |
-| Week 4<br>9. 3. - 15. 3.   |    TBA   |          evaluation of CNNs<br>(Miroslav Jaščur, MSc.)          |                                      |
+| Week 4<br>9. 3. - 15. 3.   |    TBA   |          Evaluation of NNs<br>(Miroslav Jaščur, MSc.)          |                                      |
 | Week 5<br>16. 3. - 22. 3.  |    TBA   | CNN for segmentation and its evaluation<br>(Patrik Sabol, MSc.) |    system design and architecture    |
 | Week 6<br>23. 3. - 29. 3.  |    TBA   |   RNN for time series and tabural data<br>(Andrij David, MSc.)  |                                      |
 | Week 7<br>30. 3. - 5. 4.   |    TBA   |         RNN for text processing<br>(Andrij David, MSc.)         |                                      |
