@@ -56,10 +56,10 @@ print(torch.__version__)
 
 Additionally, to check if your GPU driver and CUDA is enabled and accessible by PyTorch, run the following commands to return whether or not the CUDA driver is enabled:
 
-'''
+```
 import torch
 torch.cuda.is_available()
-'''
+```
 
 The first import might take a few seconds. If, during importing, an error occurs with one of the libraries, you need to upgrade it as in Step 1.3.
 
