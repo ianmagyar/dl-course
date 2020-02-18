@@ -13,3 +13,7 @@ An interactive turorial can be found here https://asciinema.org/a/ayD7IbJhUgDKHA
 `git remote add asterix dokku@asterix.fei.tuke.sk:<unique-app-ip>`
 5. Push your code to asterix.
 `git push asterix master`
+
+## Contact information
+* Andrij David, MSc. (andrijdavid@tuke.sk)
+* Office hours - Agreement over e-mail
