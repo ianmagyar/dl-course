@@ -50,6 +50,8 @@ Topics:
 7. *topic to be announced* (consultant Fouzia Adjailia, MSc.)
 8. explainable AI (consultant Ivan Čík, MSc.)
 
+** [Sign for assignments](https://docs.google.com/spreadsheets/d/1xv3biGtostsQoKTdZxai5tV_PauTdllpiw86H9qovCA/edit#gid=0) **
+
 ## Sources
  - [Deep Learning Simplified](https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu )
  - [Maths of Intelligence](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
