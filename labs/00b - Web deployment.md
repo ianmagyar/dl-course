@@ -1,6 +1,6 @@
 # Web deployment
 
-The deployment workflow will only use git and ssh. Make sure you are familiar with these tools. you can find some usefull resources online such as:\
+The deployment workflow will only use git and ssh. Make sure you are familiar with these tools. you can find some usefull resources online such as:
 * https://guides.github.com/activities/hello-world/
 * https://guides.github.com/introduction/git-handbook/
 
