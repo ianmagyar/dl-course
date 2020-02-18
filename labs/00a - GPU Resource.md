@@ -13,7 +13,7 @@ As we all know, Deep Learning also requires superfast matrix computations. So re
 Deep Learning only cares about the number of Floating Point Operations per second (FLOPs) and GPUs are highly optimized for that. 
 
 
-## Gpu resources
+## Free Gpu Resources
 
 * [Kaggle](https://kaggle.com)
 * [Google colab](https://colab.research.google.com/)
