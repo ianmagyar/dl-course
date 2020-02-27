@@ -44,7 +44,7 @@ Topics:
 1. [Land cover classification](assignments/land-cover-classification.md) (consultant Patrik Sabol, MSc.)
 2. assignment in cooperation with US Steel (consultant Norbert Ferenčík, MSc.)
 3. [processing the Guatemala dataset](assignments/guatemala_dataset.md) (consultant Miroslav Jaščur, MSc.)
-4. language model for programming language (consultant Andrij David, MSc.)
+4. [Neural Code Completion](assignments/Neural Code Completion.md) (consultant Andrij David, MSc.)
 5. [Super-resolution with GANs](assignments/superresolution-with-gans.md) (consultant Ján Magyar, MSc.)
 6. deep reinforcement learning (consultant Lukáš Hruška, MSc.)
 7. *topic to be announced* (consultant Fouzia Adjailia, MSc.)
