@@ -46,7 +46,7 @@ Topics:
 3. [processing the Guatemala dataset](assignments/guatemala_dataset.md) (consultant Miroslav Jaščur, MSc.)
 4. [Neural Code Completion](assignments/Neural_Code_Completion.md) (consultant Andrij David, MSc.)
 5. [Super-resolution with GANs](assignments/superresolution-with-gans.md) (consultant Ján Magyar, MSc.)
-6. deep reinforcement learning (consultant Lukáš Hruška, MSc.)
+6. [Deep Reinforcement Learning](assignments/DRL.md) (consultant Lukáš Hruška, MSc.)
 7. *topic to be announced* (consultant Fouzia Adjailia, MSc.)
 8. [explainable AI](https://github.com/ianmagyar/dl-course/blob/master/assignments/XAI.md) (consultant Ivan Čík, MSc.)
 
