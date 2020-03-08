@@ -20,7 +20,7 @@ To successfully pass this course, you have to meet the following requirements:
 | Week 3<br>2. 3. - 8. 3.    |    TBA   |    convolutional NN for detection<br>(Fouzia Adjailia, MSc.)    |            research report           |
 | Week 4<br>9. 3. - 15. 3.   |    TBA   |          Evaluation of NNs<br>(Miroslav Jaščur, MSc.)          |                                      |
 | Week 5<br>16. 3. - 22. 3.  |    TBA   | CNN for segmentation and its evaluation<br>(Patrik Sabol, MSc.) |    system design and architecture    |
-| Week 6<br>23. 3. - 29. 3.  |    TBA   |   RNN for time series and tabural data<br>(Andrij David, MSc.)  |                                      |
+| Week 6<br>23. 3. - 29. 3.  |    TBA   |   RNN for time series and tabular data<br>(Andrij David, MSc.)  |                                      |
 | Week 7<br>30. 3. - 5. 4.   |    TBA   |         RNN for text processing<br>(Andrij David, MSc.)         |                                      |
 | Week 8<br>6. 4. - 12. 4.   |    TBA   |                  presentation of first versions                 |           proof of concept           |
 | Week 9<br>13. 4. - 19. 4.  |    TBA   |                            Easter                               |                                      |
@@ -39,16 +39,16 @@ During the semester, each student must participate in the completion of an assig
  - documentation
  - a research paper presenting the results of the team project (the paper can be published in academic journals).
 
-Topics:
+## Topics:
 
 1. [Land cover classification](assignments/land-cover-classification.md) (consultant Patrik Sabol, MSc.)
-2. assignment in cooperation with US Steel (consultant Norbert Ferenčík, MSc.)
-3. [processing the Guatemala dataset](assignments/guatemala_dataset.md) (consultant Miroslav Jaščur, MSc.)
+2. [Detection of electric motor pertubations](assignments/detection_of_electric_motor_pertubations.md)  (consultant Norbert Ferenčík, MSc.)
+3. [Segmentation of the Guatemala dataset](assignments/guatemala_dataset.md) (consultant Miroslav Jaščur, MSc.)
 4. [Neural Code Completion](assignments/Neural_Code_Completion.md) (consultant Andrij David, MSc.)
 5. [Super-resolution with GANs](assignments/superresolution-with-gans.md) (consultant Ján Magyar, MSc.)
 6. [Deep Reinforcement Learning](assignments/DRL.md) (consultant Lukáš Hruška, MSc.)
 7. *topic to be announced* (consultant Fouzia Adjailia, MSc.)
-8. [explainable AI](https://github.com/ianmagyar/dl-course/blob/master/assignments/XAI.md) (consultant Ivan Čík, MSc.)
+8. [Explainable AI](https://github.com/ianmagyar/dl-course/blob/master/assignments/XAI.md) (consultant Ivan Čík, MSc.)
 
 ** [Sign for assignments](https://docs.google.com/spreadsheets/d/1xv3biGtostsQoKTdZxai5tV_PauTdllpiw86H9qovCA/edit?usp=sharing) **
 

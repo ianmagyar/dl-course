@@ -1,10 +1,10 @@
-# Geographical data -  Detection and segmentation
+# Segmentation of the Guatemala dataset
 
 ## Research goal and expected output
 * We are collaborating with team of archeologists to process a huge dataset with DL methods
 * The task is very complex, You will be assigned a small subset of the problems to test, implement and evaluate.
 
-* Selecting the most suitable tile for segmentation. We gave multiple tiles with size (approx 17100 x 9800 pixels), that represents different transforms of the lidar source data. We can vary multiple variables to generate data for our specific purposes e.g. size of the input image, threshold for detection, tile selection etc.
+* Selecting the most suitable tile for segmentation.The dataset contains multiple tiles with size (approx 17100 x 9800 pixels), that represents different transforms of the lidar source data. We can vary multiple variables to generate data for our specific purposes e.g. size of the input image, threshold for detection, tile selection etc.
 
 * __Expected output__: __Multiple models, that perform well on the selected dataset for detection and segmentation.__
 
@@ -13,9 +13,9 @@
 ## Milestones
 * __Week 4__  - Best possible dataset for detection (we have infinite possibilities - I will explain this in person).
 
-* Week 5 - Picking the appropriate method for segmentation - R-CNN, U-Net, Fast R-CNN, Mask R-CNN.
+* __Week 5__ - Picking the appropriate method for segmentation - R-CNN, U-Net, Fast R-CNN, Mask R-CNN.
 
-* __Week 8__ - Comparison of performance of this methods on the dataset for binary detection, segmentation.
+* __Week 8__ - Comparison of performance of this methods on the dataset for binary detection, segmentation. + First draft of the article.
 
 * __Week 11__ - Experiments with architecture tweeks with preprocesing and postprocesing.
 
