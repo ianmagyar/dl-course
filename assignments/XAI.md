@@ -1,4 +1,4 @@
-# Team project assignment - Explainable Artificial Intelligence
+# Project  assignment - Explainable Artificial Intelligence
 
 With the availability of large databases and recent improvements in deep learning methodology, the
 performance of AI systems is reaching, or even exceeding, the human level on an increasing number of complex
