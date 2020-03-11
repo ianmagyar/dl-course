@@ -47,7 +47,7 @@ During the semester, each student must participate in the completion of an assig
 4. [Neural Code Completion](assignments/Neural_Code_Completion.md) (consultant Andrij David, MSc.)
 5. [Super-resolution with GANs](assignments/superresolution-with-gans.md) (consultant Ján Magyar, MSc.)
 6. [Deep Reinforcement Learning](assignments/DRL.md) (consultant Lukáš Hruška, MSc.)
-7. Convolution Neural Network (consultant Fouzia Adjailia, MSc.)
+7. [Convolution Neural Network](assigments/CNN.md) (consultant Fouzia Adjailia, MSc.)
 8. [Explainable AI](https://github.com/ianmagyar/dl-course/blob/master/assignments/XAI.md) (consultant Ivan Čík, MSc.)
 
 ** [Sign for assignments](https://docs.google.com/spreadsheets/d/1xv3biGtostsQoKTdZxai5tV_PauTdllpiw86H9qovCA/edit?usp=sharing) **
