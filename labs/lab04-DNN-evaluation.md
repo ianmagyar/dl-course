@@ -1,5 +1,5 @@
 # Evaluation of Deep Neural Networks
-When training a machine learning model, one of the main things that you want to avoid would be overfitting. This is when your model fits the training data well, but it isn't able to generalize and make accurate predictions for data it hasn't seen before. To prevent this we are searc
+When training a machine learning model, one of the main things that you want to avoid would be overfitting. This is when your model fits the training data well, but it isn't able to generalize and make accurate predictions for data it hasn't seen before. To prevent this we are searching for optimal moment of stopping the training and for regularization methods, that revent overfitting.
 
 ### Training accuracy
 
