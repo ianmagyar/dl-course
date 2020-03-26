@@ -16,7 +16,7 @@ To successfully pass this course, you have to meet the following requirements:
 |                            | Lectures |                               Labs                              |             Team project             |
 |:--------------------------:|:--------:|:---------------------------------------------------------------:|:------------------------------------:|
 | Week 1<br>17. 2. - 23. 2.  | [Introduction to Neural Nets with Tensorflow and Keras](lectures/lecture01-tensorflow-and-keras.ipynb)<br>[codes](lectures/lecture01_codes.zip) |         web deployment tutorial<br>(Andrij David, MSc.)         | creating teams, choosing assignments |
-| Week 2<br>24. 2. - 1. 3.   |    Theoretical Basics of NNs   |   basics of PyTorch<br>(Ivan Čík, MSc.)  |                                      |
+| Week 2<br>24. 2. - 1. 3.   |    Theoretical Basics of NNs   |   [basics of PyTorch](<labs/02 - Pytorch.ipynb>)<br>(Ivan Čík, MSc.)  |                                      |
 | Week 3<br>2. 3. - 8. 3.    |    Gradient Descent in NNs pt. 1   |    convolutional NN for detection<br>(Fouzia Adjailia, MSc.)    |            research report           |
 | Week 4<br>9. 3. - 15. 3.   |    Gradient Descent in NNs pt. 2   |          [Evaluation of NNs](labs/lab04-DNN-evaluation.md)<br>(Miroslav Jaščur, MSc.)          |                                      |
 | Week 5<br>16. 3. - 22. 3.  |    Delta-Delta rule for speeding up NN training   | CNN for segmentation and its evaluation<br>(Patrik Sabol, MSc.) |    system design and architecture    |
