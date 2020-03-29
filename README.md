@@ -19,7 +19,7 @@ To successfully pass this course, you have to meet the following requirements:
 | Week 2<br>24. 2. - 1. 3.   |    Theoretical Basics of NNs   |   [basics of PyTorch](<labs/02 - Pytorch.ipynb>)<br>(Ivan Čík, MSc.)  |                                      |
 | Week 3<br>2. 3. - 8. 3.    |    Gradient Descent in NNs pt. 1   |    convolutional NN for detection<br>(Fouzia Adjailia, MSc.)    |            research report           |
 | Week 4<br>9. 3. - 15. 3.   |    Gradient Descent in NNs pt. 2   |          [Evaluation of NNs](labs/lab04-DNN-evaluation.md)<br>(Miroslav Jaščur, MSc.)          |                                      |
-| Week 5<br>16. 3. - 22. 3.  |    Delta-Delta rule for speeding up NN training   | CNN for segmentation and its evaluation<br>(Patrik Sabol, MSc.) |    system design and architecture    |
+| Week 5<br>16. 3. - 22. 3.  |    Delta-Delta rule for speeding up NN training   | [CNN for segmentation and its evaluation](lab05-Image-Segmentation-in-Deep-Learning_-Methods-and-Its-Evaluation.md)<br>(Patrik Sabol, MSc.) |    system design and architecture    |
 | Week 6<br>23. 3. - 29. 3.  |    Kohonen NN and unsupervised learning principles   |   RNN for time series and tabular data<br>(Andrij David, MSc.)  |                                      |
 | Week 7<br>30. 3. - 5. 4.   |    —   |         RNN for text processing<br>(Andrij David, MSc.)         |                                      |
 | Week 8<br>6. 4. - 12. 4.   |    Oja NN, principles of reinforcement learning, restricted BM, vanishing gradient problem, encoder-decoder stacs   |                  presentation of first versions                 |           proof of concept           |
