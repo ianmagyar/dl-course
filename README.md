@@ -24,7 +24,7 @@ To successfully pass this course, you have to meet the following requirements:
 | Week 7<br>30. 3. - 5. 4.   |    —   |         RNN for text processing<br>(Andrij David, MSc.)         |                                      |                                     |
 | Week 8<br>6. 4. - 12. 4.   |    Oja NN, principles of reinforcement learning, restricted BM, vanishing gradient problem, encoder-decoder stacs   |                  presentation of first versions                 |           proof of concept           |
 | Week 9<br>13. 4. - 19. 4.  |    Deep learning, hyperparameters, intro to convolutional NNs   |                            Easter                               |                                      |
-| Week 10<br>20. 4. - 26. 4. |    CNN1 - feed-forward flow   |     generative adversarial networks<br>(Ján Magyar, MSc.)       |            progress report           |
+| Week 10<br>20. 4. - 26. 4. |    CNN1 - feed-forward flow   | [generative adversarial networks](labs/10-generative-adversarial-networks.ipynb)<br>(Ján Magyar, MSc.)       |            progress report           |
 | Week 11<br>27. 4. - 3. 5.  |    CNN1 - backpropagation   |       deep reinforcement learning<br>(Lukáš Hruška, MSc.)       |                                      |
 | Week 12<br>4. 5. - 10. 5.  |    Review of DL NN topologies   |                      handing in assignments                     |             final version            |
 | Week 13<br>11. 5. - 17. 5. |    Resuming discussion on DL NN technology   |                                 —                               |                   —                  |
