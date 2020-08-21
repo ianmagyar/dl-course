@@ -7,7 +7,13 @@ import torch.optim as optim
 from PIL import Image, ImageDraw, ImageShow
 import matplotlib.pyplot as plt
 
-#utils
+# This solution works but it is not efficient in several ways
+# 1. Correct and/or remove the activation functions?
+# 2. Minimize number of parameters?
+# 3. Find the correct function? IS RMSE the right one? Why?
+# 4. Reduce the number of layers? Why is it possible or why it is not?
+# 5. Optimizers parameters modification.
+# 6. Introduction of minibatches? Will it help?
 
 def get_n_params(model):
     pp=0
