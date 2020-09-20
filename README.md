@@ -3,9 +3,9 @@
 Welcome to the web page of the class **Introduction to Deep Learning** at the Technical University of Košice, a course that is taught in the winter semester in the first year of MSc. studies for students of Intelligent Systems. The course is a continuation of the course *Neural networks*. This web page provides all necessary information and materials for the course.
 
 ## Your teachers
-* [prof. Peter Sinčák](https://www.petersincak.com)
-* [Ján Magyar, MSc.](http://www.cloudai.sk/people-janmagyar/)
-* [Andrij David](http://www.cloudai.sk/people-davidrasamoelina/)
+ - [prof. Peter Sinčák](https://www.petersincak.com)
+ - [Ján Magyar, MSc.](http://www.cloudai.sk/people-janmagyar/)
+ - [Andrij David](http://www.cloudai.sk/people-davidrasamoelina/)
 
 ## Grading
 To successfully pass this course, you have to meet the following requirements:
@@ -14,6 +14,11 @@ To successfully pass this course, you have to meet the following requirements:
 2. hand in the semestral project (see lower)
 3. get at least 21 points during the semester
 4. pass the exam (get at least 31 points)
+
+Throughout the semester you can get 40 points in the following distribution:
+
+  - semestral project - 30 points
+  - homework and class activities - 10 points
 
 ## Course plan
 Due to the ongoing COVID-19 pandemic, teaching will take place in a hybrid system with both online and in attendance classes. All lectures will be online, while labs will be online and also in attandance (see table lower). For in attendance classes, the study group will be split into two smaller halves (with no more than 12 students), which will attend classes alternating. In attendance classes will take place at 7.30 on Mondays in V4_V102. Additional online consultations are offered Fridays at 9.00 on Microsoft Teams.
@@ -45,8 +50,17 @@ During the semester, each student must participate in the completion of an assig
  - documentation (per student)
  - a research paper presenting the results of the team project (per team - the best papers can be later published in journals).
 
+For further information on expected outcome and grading, please check [this page](assignment.md).
+
 ### Topics:
-*TBA*
+ 1. image classification
+ 2. segmentation
+ 3. superresolution
+ 4. image inpainting
+ 5. image coloring
+ 6. deep reinforcement learning
+ 7. time series prediction
+ 8. image noise reduction
 
 ## Further sources
  - [Deep Learning Simplified](https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu )
