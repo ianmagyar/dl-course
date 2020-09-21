@@ -21,7 +21,7 @@ Throughout the semester you can get 40 points in the following distribution:
   - homework and class activities - 10 points
 
 ## Course plan
-Due to the ongoing COVID-19 pandemic, teaching will take place in a hybrid system with both online and in attendance classes. All lectures will be online, while labs will be online and also in attandance (see table lower). For in attendance classes, the study group will be split into two smaller halves (with no more than 12 students), which will attend classes alternating. In attendance classes will take place at 7.30 on Mondays in V4_V102. Additional online consultations are offered Fridays at 9.00 on Microsoft Teams.
+Due to the ongoing COVID-19 pandemic, teaching will take place in a hybrid system with both online and in attendance classes. All lectures will be online, while labs will be online and also in attandance (see table lower). For in attendance classes, the study group will be split into two smaller halves (with no more than 12 students), which will attend classes alternating. In attendance classes will take place at 7.30 on Mondays in V4_V147. Additional online consultations are offered Fridays at 9.00 on Microsoft Teams.
 
 Please check the course's Microsoft Teams group for the newest information.
 
