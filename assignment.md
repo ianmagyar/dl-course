@@ -3,14 +3,14 @@
 Throughout the semester, you will be working on a single semestral project in which you will design and implement a deep learning model for solving a real-life problem for which deep learning has already been used. Your deep learning models can be implemented in Tensorflow or Pytorch, and you can use any technology and methods you find (the model's topology is entirely up to you). The assignments will be solved in teams of 3-4 students, but each team member will create his or her own model and implementation. At the end of the semester, you will evaluate these models and within the team, the best-performing model will get the highest number of points.
 
 ## Topics
- 1. **image classification** - you will select a dataset with images of at least eight classes and will train a neural net that can correctly categorize images into these classes
- 2. **segmentation** - you will select a dataset and train a neural net for segmentation (i.e. pixel-wise classification)
- 3. **superresolution** - you will train a neural net that can increase the resolution of input images of a given class at least 4x
- 4. **image inpainting** - you will train a neural net that can draw the missing parts of an image (recommended domain: human faces with eyes missing)
- 5. **image coloring** - you will trian a neural net that can turn grayscale images of a given class into color images
- 6. **deep reinforcement learning** - you will train a neural net that will learn to play a simple game using reinforcement learning
- 7. **time series prediction** - you will train a neural net that will be able to predict changes in the stock market
- 8. **image noise reduction** - you will train a model that will be able to remove noise (missing pixels) from an image
+ 1. **image classification** - you will select a dataset with images of at least eight classes and will train a neural net that can correctly categorize images into these classes ([explanation](https://missinglink.ai/guides/convolutional-neural-networks/convolutional-neural-networks-image-classification/))
+ 2. **segmentation** - you will select a dataset and train a neural net for segmentation (i.e. pixel-wise classification) ([explanation](https://missinglink.ai/guides/computer-vision/image-segmentation-deep-learning-methods-applications/))
+ 3. **superresolution** - you will train a neural net that can increase the resolution of input images of a given class at least 4x ([explanation](https://medium.com/beyondminds/an-introduction-to-super-resolution-using-deep-learning-f60aff9a499d))
+ 4. **image inpainting** - you will train a neural net that can draw the missing parts of an image (recommended domain: human faces with eyes missing) ([explanation](http://cs231n.stanford.edu/reports/2017/pdfs/328.pdf))
+ 5. **image coloring** - you will trian a neural net that can turn grayscale images of a given class into color images ([explanation](https://towardsdatascience.com/colorizing-images-with-a-convolutional-neural-network-3692d71956e2))
+ 6. **deep reinforcement learning** - you will train a neural net that will learn to play a simple game using reinforcement learning ([explanation](https://rubenfiszel.github.io/posts/rl4j/2016-08-24-Reinforcement-Learning-and-DQN.html))
+ 7. **time series prediction** - you will train a neural net that will be able to predict changes in the stock market ([explanation](https://medium.com/analytics-steps/introduction-to-time-series-analysis-time-series-forecasting-machine-learning-methods-models-ecaa76a7b0e3))
+ 8. **image noise reduction** - you will train a model that will be able to remove noise (missing pixels) from an image ([explanation](https://towardsdatascience.com/convolutional-autoencoders-for-image-noise-reduction-32fce9fc1763))
 
 ## Project time plan
 - week 3 - project plan
