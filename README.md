@@ -28,7 +28,7 @@ Please check the course's Microsoft Teams group for the newest information.
 |                              | **Lecture** |                               **Lab**                              |
 |:----------------------------:|:-----------:|:------------------------------------------------------------------:|
 |   Week 1<br>21. 9. - 27. 9.  |    *TBA*    |               introduction to the course<br>[online]               |
-|   Week 2<br>28. 9. - 4. 10.  |    *TBA*    |        review of ANNs, theory of convolution<br>[1st group]        |
+|   Week 2<br>28. 9. - 4. 10.  |    *TBA*    |        [review of ANNs, theory of convolution](labs/lab02-ANNs-and-convolution.ipynb)<br>[1st group]        |
 |  Week 3<br>5. 10. - 11. 10.  |    *TBA*    |             convolution - implementation<br>[2nd group]            |
 |  Week 4<br>12. 10. - 18. 10. |    *TBA*    |                convolutional neural nets<br>[online]               |
 |  Week 5<br>19. 10. - 25. 10. |    *TBA*    |     optimizers and loss function, project report<br>[1st group]    |
