@@ -34,9 +34,9 @@ Please check the course's Microsoft Teams group for the newest information.
 |  Week 5<br>19. 10. - 25. 10. |    *TBA*    |     optimizers and loss function, project report<br>[1st group]    |
 |  Week 6<br>26. 10. - 1. 11.  |    *TBA*    |     optimizers and loss function, project report<br>[2nd group]    |
 |   Week 7<br>2. 11. - 8. 11.  |    *TBA*    |           recurrent neural nets<br>[online - in English]           |
-|  Week 8<br>9. 11. - 15. 11.  |    *TBA*    |             Generative Adversarial Nets<br>[1st group]             |
-|  Week 9<br>16. 11. - 22. 11. |    *TBA*    |                     autoencoders<br>[2nd group]                    |
-| Week 10<br>23. 11. - 29. 11. |    *TBA*    |            DL for tabular data<br>[online - in English]            |
+|  Week 8<br>9. 11. - 15. 11.  |    *TBA*    |           DL for tabular data<br>[1st group - in English]          |
+|  Week 9<br>16. 11. - 22. 11. |    *TBA*    |             Generative Adversarial Nets<br>[2nd group]             |
+| Week 10<br>23. 11. - 29. 11. |    *TBA*    |                       autoencoders<br>[online]                     |
 |  Week 11<br>30. 11. - 6. 12. |    *TBA*    | deep reinforcement learning<br>[in attendance - 1st and 2nd group] |
 |  Week 12<br>7. 12. - 13. 12. |    *TBA*    |           handing in assignments<br>[online presentation]          |
 | Week 13<br>14. 12. - 20. 12. |     *—*     |           handing in assignments<br>[online presentation]          |
