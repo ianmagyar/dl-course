@@ -26,20 +26,10 @@ model = Sequential()
 model.summary()
 
 # compile the model
-model.compile(
-    loss='categorical_crossentropy',
-    optimizer=Adam(lr=0.01),
-    metrics=["accuracy"]
-)
+model.compile()
 
 # train the network
-model.fit(
-    x_train,
-    y_train,
-    batch_size=128,
-    epochs=10,
-    verbose=2
-)
+model.fit()
 
 # evaluate the model
 y_pred = model.predict(x_test)
