@@ -33,7 +33,7 @@ Please check the course's Microsoft Teams group for the newest information.
 |  Week 4<br>12. 10. - 18. 10. |    *TBA*    |                [CNNs in keras](labs/lab04-convolutional-neural-networks-lenet.ipynb), [visualizing CNNs](labs/lab04b-cnn-visualization.ipynb)<br>[online]               |
 |  Week 5<br>19. 10. - 25. 10. |    *TBA*    |  [DL training cookbook](labs/lab05-deep-learning-cookbook.ipynb)<br>[online]  |
 |  Week 6<br>26. 10. - 1. 11.  |    *TBA*    |                      project report<br>[online]                    |
-|   Week 7<br>2. 11. - 8. 11.  |    *TBA*    |           recurrent neural nets<br>[online - in English]           |
+|   Week 7<br>2. 11. - 8. 11.  |    *TBA*    | [text processing and recurrent neural nets](labs/lab07-Intro-to-text-processing-in-Deep-Learning.ipynb)<br>[online - in English] |
 |  Week 8<br>9. 11. - 15. 11.  |    *TBA*    |             DL for tabular data<br>[online - in English]           |
 |  Week 9<br>16. 11. - 22. 11. |    *TBA*    |               Generative Adversarial Nets<br>[online]              |
 | Week 10<br>23. 11. - 29. 11. |    *TBA*    |                       autoencoders<br>[online]                     |
