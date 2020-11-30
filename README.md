@@ -37,7 +37,7 @@ Please check the course's Microsoft Teams group for the newest information.
 |  Week 8<br>9. 11. - 15. 11.  |    *TBA*    |             DL for tabular data<br>[online - in English]           |
 |  Week 9<br>16. 11. - 22. 11. |    *TBA*    | [autoencoders](labs/lab09-introduction-to-autoencoders.ipynb)<br>[online] |
 | Week 10<br>23. 11. - 29. 11. |    *TBA*    | [Generative Adversarial Nets](labs/lab10-generative-adversarial-networks.ipynb)<br>[online] |
-|  Week 11<br>30. 11. - 6. 12. |    *TBA*    |               deep reinforcement learning<br>[online]              |
+|  Week 11<br>30. 11. - 6. 12. |    *TBA*    | [deep reinforcement learning](labs/lab11-deep-reinforcement-learning.ipynb)<br>[online] |
 |  Week 12<br>7. 12. - 13. 12. |    *TBA*    |           handing in assignments<br>[online presentation]          |
 | Week 13<br>14. 12. - 20. 12. |     *—*     |           handing in assignments<br>[online presentation]          |
 
