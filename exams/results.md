@@ -22,3 +22,9 @@ https://gitlab.cit.fei.tuke.sk/andrijdavid/pokemon_dataset
 15/01/2021 08:06:09: Szasz Adam 2 0.0% 
  
 15/01/2021 08:12:13: Varga Matej 48.06% 
+
+15/01/2021 08:14:15: Krajnak Robert 0 37.03% 
+
+15/01/2021 08:15:09: Krajnak Robert 1 17.78% 
+
+15/01/2021 08:15:34: Krajnak Robert 2 17.78% 
