@@ -38,3 +38,16 @@ https://gitlab.cit.fei.tuke.sk/andrijdavid/pokemon_dataset
 15/01/2021 08:15:34: Krajnak Robert 2 17.78% 
 
 15/01/2021 08:26:46: Chocholacek Matus 12.71% 
+
+
+### Results - 15/01/2021 09:16:21
+ 
+15/01/2021 09:16:21: Chocholacek Matus 13.57% 
+ 
+15/01/2021 09:16:21: Krajnak Robert 17.78% 
+ 
+15/01/2021 09:16:21: Szasz Adam 0.0% 
+ 
+15/01/2021 09:16:21: Varga Matej 45.55% 
+ 
+15/01/2021 09:16:21: Zingor Martin 50.85% 
