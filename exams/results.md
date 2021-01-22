@@ -33,3 +33,29 @@ https://gitlab.cit.fei.tuke.sk/andrijdavid/pokemon_dataset
 22/01/2021 07:17:48: Tirpak Adam 15.34% 
  
 22/01/2021 07:53:34: Toth Martin 14.96% 
+
+
+### Results - 22/01/2021 11:49:38
+ 
+22/01/2021 11:49:38: Barabas Dalibor 17.78% 
+ 
+22/01/2021 11:49:38: Burkus Jozef 17.78% 
+ 
+22/01/2021 11:49:38: Cejka Oliver 22.65% 
+ 
+22/01/2021 11:49:38: Hlivka Peter 48.42% 
+ 
+22/01/2021 11:49:38: Kacenakova Boleslava 29.28% 
+ 
+22/01/2021 11:49:38: Kondas Jozef 38.25% 
+ 
+22/01/2021 11:49:38: Kostka Marek 52.41% 
+ 
+22/01/2021 11:49:38: Krupas Maros 26.37% 
+ 
+22/01/2021 11:49:38: Macak Stanislav 47.19% 
+ 
+22/01/2021 11:49:38: Tirpak Adam 14.25% 
+ 
+22/01/2021 11:49:38: Toth Martin 14.96% 
+ 
