@@ -14,83 +14,22 @@ The order of files is irrelevant. Send your solutions via MS Teams. Your results
 https://gitlab.cit.fei.tuke.sk/andrijdavid/pokemon_dataset
 
 
-### Results - 15/01/2021 08:04:12
-15/01/2021 08:04:12: Zingor Martin 46.89%
+### Results - 22/01/2021 08:00:00
+ 
+22/01/2021 07:17:48: Hlivka Peter (4) 40.17% 
 
-15/01/2021 08:26:46: Zingor Martin 2 49.7% 
+22/01/2021 07:18:37: Hlivka Peter (5) 24.89% 
  
-15/01/2021 08:27:35: Zingor Martin 3 53.91% 
- 
-15/01/2021 08:28:03: Zingor Martin 4 50.85% 
+22/01/2021 07:49:03: Kacenakova Boleslava 23.53% 
 
-15/01/2021 08:05:34: Szasz Adam 1 0.0% 
+22/01/2021 07:17:48: Kostka Marek (1) 50.14% 
+ 
+22/01/2021 07:18:37: Kostka Marek (2) 47.77% 
+ 
+22/01/2021 07:55:47: Krupas Maros 20.46% 
 
-15/01/2021 08:06:09: Szasz Adam 2 0.0% 
+22/01/2021 07:17:48: Macak Stanislav 47.19% 
  
-15/01/2021 08:12:13: Varga Matej 48.06% 
-
-15/01/2021 08:18:29: Varga Matej 4 45.09% 
-
-15/01/2021 08:14:15: Krajnak Robert 0 37.03% 
-
-15/01/2021 08:15:09: Krajnak Robert 1 17.78% 
-
-15/01/2021 08:15:34: Krajnak Robert 2 17.78% 
-
-15/01/2021 08:26:46: Chocholacek Matus 12.71% 
-
-
-### Results - 15/01/2021 09:16:21
+22/01/2021 07:17:48: Tirpak Adam 15.34% 
  
-15/01/2021 09:16:21: Chocholacek Matus 13.57% 
- 
-15/01/2021 09:16:21: Krajnak Robert 17.78% 
- 
-15/01/2021 09:16:21: Szasz Adam 0.0% 
- 
-15/01/2021 09:16:21: Varga Matej 45.55% 
- 
-15/01/2021 09:16:21: Zingor Martin 50.85% 
-
-
-### Results - 15/01/2021 09:47:28
- 
-15/01/2021 09:47:28: Chocholacek Matus 13.57% 
- 
-15/01/2021 09:47:28: Krajnak Robert 52.01% 
- 
-15/01/2021 09:47:06: Szasz Adam 2 53.78% 
- 
-15/01/2021 09:47:28: Szasz Adam 3 50.53% 
- 
-15/01/2021 09:47:28: Varga Matej 45.55% 
- 
-15/01/2021 09:47:28: Zingor Martin 50.85% 
-
-
-### Results - 15/01/2021 11:07:21
- 
-15/01/2021 11:07:20: Chocholacek Matus 16.29% 
- 
-15/01/2021 11:07:20: Krajnak Robert 52.01% 
- 
-15/01/2021 11:07:20: Szasz Adam 54.73% 
- 
-15/01/2021 11:07:20: Varga Matej 39.84% 
- 
-15/01/2021 11:07:21: Zingor Martin 50.85% 
-
-
-### Results - 15/01/2021 12:26:20
- 
-15/01/2021 12:26:20: Cejka Oliver 22.17% 
- 
-15/01/2021 12:26:20: Chocholacek Matus 16.29% 
- 
-15/01/2021 12:26:20: Krajnak Robert 52.01% 
- 
-15/01/2021 12:26:20: Szasz Adam 54.73% 
- 
-15/01/2021 12:26:20: Varga Matej 39.84% 
- 
-15/01/2021 12:26:20: Zingor Martin 50.85% 
+22/01/2021 07:53:34: Toth Martin 14.96% 
