@@ -19,3 +19,12 @@ https://gitlab.cit.fei.tuke.sk/andrijdavid/pokemon_dataset
 29/01/2021 08:00:38: Jenigar Martin 11.58% 
  
 29/01/2021 08:00:38: Suchanic David 62.19% 
+
+
+### Results - 29/01/2021 09:02:25
+ 
+29/01/2021 09:02:25: Jenigar Martin 11.58% 
+ 
+29/01/2021 09:02:25: Paramonov Danyil 40.35% 
+ 
+29/01/2021 09:02:25: Suchanic David 62.95% 
