@@ -1,70 +1,54 @@
-# Introduction to Deep Learning
+# Základy hĺbkového učenia
 
-Welcome to the web page of the class **Introduction to Deep Learning** at the Technical University of Košice, a course that is taught in the winter semester in the first year of MSc. studies for students of Intelligent Systems. The course is a continuation of the course *Neural networks*. This web page provides all necessary information and materials for the course.
+**Základy hĺbkového učenia** je predmet ponúkaný v zimnom semestri prvého ročníka inžinierskeho štúdia na Technickej univerzite v Košiciach pre študijný program Inteligentné systémy. Predmet je pokračovaním kurzu *Neurónové siete* a jeho cieľom je oboznámiť študentov so základmi, metodológiou a novými trendmi deep learningu, teda hlbokého učenia.
 
-## Your teachers
+## Vyučujúci
  - [prof. Peter Sinčák](https://www.petersincak.com)
- - [Ján Magyar, MSc.](http://www.cloudai.sk/people-janmagyar/)
- - [Andrij David](http://www.cloudai.sk/people-davidrasamoelina/)
+ - [Dr. Ján Magyar](http://www.cloudai.sk/people-janmagyar/)
 
-## Grading
-To successfully pass this course, you have to meet the following requirements:
+## Plán prednášok a cvičení
+Prednášky z predmetu sú vo švrtok o 13:30 v miestnosti V4_V102. Cvičenia sú každý utorok o 15:10 v miestnosti V4_010. Počas semestra má študent nárok na maximálne tri neúčasti.
 
-1. attendance at lectures and labs (at most 3 absences at each)
-2. hand in the semestral project (see lower)
-3. get at least 21 points during the semester
-4. pass the exam (get at least 31 points)
+Pre aktuálne informácie ohľadom organizácie predmetu a komunikáciu s vyučujúcimi používajte MS Teams skupinu predmetu.
 
-Throughout the semester you can get 40 points in the following distribution:
+|                                  |                            **Cvičenie**                            |              **Deadliny**               |
+|:--------------------------------:|:------------------------------------------------------------------:|:---------------------------------------:|
+|   1. týždeň<br>25. 9. - 1. 10.   |                úvod, opakovanie, pridelenie zadaní                 |                                         |
+|   2. týždeň<br>2. 10. - 8. 10.   |            teória konvolúcie, implementácia v Pythone              | výber článku k zadaniu 1                |
+|   3. týždeň<br>9. 10. - 15. 10.  |                    konvolučné siete v PyTorchi                     | prezentácia výskumného projektu         |
+|   4. týždeň<br>16. 10. - 22. 10. |                       DL training cookbook 1                       |                                         |
+|   5. týždeň<br>23. 10. - 29. 10. |                       DL training cookbook 2                       | report k zadaniu 1                      |
+|   6. týždeň<br>30. 10. - 5. 11.  |           dataloadery, augmentácia údajov, práca s dátami          |                                         |
+|   7. týždeň<br>6. 11. - 12. 11.  |                   spracovanie prirodzeného jazyka                  | výskumný projekt - prehľad literatúry   |
+|   8. týždeň<br>13. 11. - 19. 11. |               zápočtová písomka, prezentácia projektov             |                                         |
+|   9. týždeň<br>20. 11. - 26. 11. |             generovanie zvuku pomocou neurónových sietí            | odovzdanie prvého zadania               |
+|  10. týždeň<br>27. 11. - 3. 12.  |               využitie rekurentných neurónových sietí              | výskumný projekt - prvé výsledky        |
+|  11. týždeň<br>4. 12. - 10. 12.  |                      self-supervised learning                      |                                         |
+|  12. týždeň<br>11. 12. - 17. 12. |                            transformery                            |                                         |
+|  13. týždeň<br>18. 12. - 24. 12. |                  konzultácie, odovzdávanie zadaní                  | výskumný projekt - progress report      |
 
-  - semestral project - 30 points
-  - homework and class activities - 10 points
+## Hodnotenie predmetu
+Pre absolvovanie predmetu študent musí spĺňať nasledovné podmienky:
 
-## Course plan
-Due to the ongoing COVID-19 pandemic, teaching will take place in a hybrid system with both online and in attendance classes. All lectures will be online, while labs will be online and also in attandance (see table lower). For in attendance classes, the study group will be split into two smaller halves (with no more than 12 students), which will attend classes alternating. In attendance classes will take place at 7.30 on Mondays in V4_V147. Additional online consultations are offered Fridays at 9.00 on Microsoft Teams.
+1. účasť na prednáškach a cvičeniach (maximálne 3 neúčasti)
+2. odovzdanie zadaní a absolvovanie písomky (viď nižšie)
+3. získať minimálne 21 bodov do zápočtu
+4. prejsť skúškou (získať minimálne 31 bodov)
 
-Please check the course's Microsoft Teams group for the newest information.
+Počas semestra študenti môžu získať 40 bodov a to nasledovne:
 
-|                              | **Lecture** |                               **Lab**                              |
-|:----------------------------:|:-----------:|:------------------------------------------------------------------:|
-|   Week 1<br>21. 9. - 27. 9.  |    *TBA*    |               introduction to the course<br>[online]               |
-|   Week 2<br>28. 9. - 4. 10.  |    *TBA*    |        [review of ANNs, theory of convolution](labs/lab02-ANNs-and-convolution.ipynb)<br>[1st group]        |
-|  Week 3<br>5. 10. - 11. 10.  |    *TBA*    |             [convolution - implementation](labs/lab03-convolution-from-scratch.ipynb)<br>[online]            |
-|  Week 4<br>12. 10. - 18. 10. |    *TBA*    |                [CNNs in keras](labs/lab04-convolutional-neural-networks-lenet.ipynb), [visualizing CNNs](labs/lab04b-cnn-visualization.ipynb)<br>[online]               |
-|  Week 5<br>19. 10. - 25. 10. |    *TBA*    |  [DL training cookbook](labs/lab05-deep-learning-cookbook.ipynb)<br>[online]  |
-|  Week 6<br>26. 10. - 1. 11.  |    *TBA*    |                      project report<br>[online]                    |
-|   Week 7<br>2. 11. - 8. 11.  |    *TBA*    | [text processing and recurrent neural nets](labs/lab07-Intro-to-text-processing-in-Deep-Learning.ipynb)<br>[online - in English] |
-|  Week 8<br>9. 11. - 15. 11.  |    *TBA*    |             DL for tabular data<br>[online - in English]           |
-|  Week 9<br>16. 11. - 22. 11. |    *TBA*    | [autoencoders](labs/lab09-introduction-to-autoencoders.ipynb)<br>[online] |
-| Week 10<br>23. 11. - 29. 11. |    *TBA*    | [Generative Adversarial Nets](labs/lab10-generative-adversarial-networks.ipynb)<br>[online] |
-|  Week 11<br>30. 11. - 6. 12. |    *TBA*    | [deep reinforcement learning](labs/lab11-deep-reinforcement-learning.ipynb)<br>[online] |
-|  Week 12<br>7. 12. - 13. 12. |    *TBA*    |           handing in assignments<br>[online presentation]          |
-| Week 13<br>14. 12. - 20. 12. |     *—*     |           handing in assignments<br>[online presentation]          |
+  - [Replikácia článku](assignments/assignment1.md) - 10 bodov
+  - [Semestrálny projekt](assignments/assignment2.md) - 15 bodov
+  - multimediálne spracovanie témy z hlbokého učenia - 5 bodov
+  - zápočtová písomka - 10 bodov
 
-## Assignment
-During the semester, each student must participate in the completion of an assignment. Assignments are done by teams of three or four students, within the team, students will be competing against each other in training the most accurate network (every student will prepare his/her own solution). Each team project must contain the following:
+## Ďalšie zdroje
+Hlavnou odporúčanou literatúrou je kniha [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) od Francoisa Fleureta.
 
- - a specified research goal (per team)
- - an overview of state-of-the-art solutions (per team)
- - a trained DL model (per student)
- - documentation (per student)
- - a research paper presenting the results of the team project (per team - the best papers can be later published in journals).
+Ďalšie odporúčané zdroje:
 
-For further information on expected outcome and grading, please check [this page](assignment.md).
-
-### Topics:
- 1. image classification
- 2. segmentation
- 3. superresolution
- 4. image inpainting
- 5. image coloring
- 6. deep reinforcement learning
- 7. time series prediction
- 8. image noise reduction
-
-## Further sources
- - [Deep Learning Simplified](https://www.youtube.com/watch?v=b99UVkWzYTQ&list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu )
- - [Maths of Intelligence](https://www.youtube.com/watch?v=xRJCOz3AfYY&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D)
- - [Convolutional Neural Networks](https://www.youtube.com/watch?v=ArPaAX_PhIs&list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
- - [Intro to Deep Learning](http://introtodeeplearning.com)
- - [Hluboké neuronové sítě](https://www.vutbr.cz/www_base/zav_prace_soubor_verejne.php?file_id=119294)
+ - [Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep learning. MIT press, 2016.](https://www.deeplearningbook.org)
+ - [Aggarwal, Charu C. "Neural networks and deep learning." Springer 10, no. 978 (2018): 3.](https://link.springer.com/book/10.1007/978-3-319-94463-0)
+ - [Raschka, Sebastian, Yuxi Hayden Liu, Vahid Mirjalili, and Dmytro Dzhulgakov. Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python. Packt Publishing Ltd, 2022.](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
+ - [Buduma, Nithin, Nikhil Buduma, and Joe Papa. Fundamentals of deep learning. " O'Reilly Media, Inc.", 2022.](https://www.oreilly.com/library/view/fundamentals-of-deep/9781492082170/)
+ - [Chollet, Francois. Deep learning with Python. Simon and Schuster, 2021.](https://www.manning.com/books/deep-learning-with-python-second-edition)
