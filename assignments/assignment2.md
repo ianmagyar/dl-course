@@ -36,14 +36,14 @@ Aby sme vašu prácu mohli hodnotiť objektívne a férovo, je dôležité, aby 
 
 Pre zabezpečenie systematickej práce sme zadefinovali niekoľko míľnikov a odovzdávok. Od vyučujúcich dostanete spätnú väzbu po každej odovzdávke a môžete ich poprosiť o pomoc a názor hocikedy počas riešenia projektu:
 
- 1. návrh projektu - do 13. 10. - spísaný súhrn a stretnutie s cvičiacim
+ 1. návrh projektu - do 20. 10. - spísaný súhrn a stretnutie s cvičiacim
  2. prehľad literatúry - do 12. 11. - spísaný v šablóne
  3. prvé výsledky - do 1. 12. - kód: existujúci pipeline, krátke zhrnutie prvých skúseností
  4. progress report - do 22. 12. - zhrnutie dosiahnutých výsledkov a návrh ďalšieho postupu; stretnutie s cvičiacim
  5. finálna odovzdávka - začiatok skúškového obdobia - súčasť skúšky
 
 ### Návrh projektu
-**Deadline:** do 13. 10.
+**Deadline:** do 20. 10.
 
 **Odovzdáte:** pdf súbor + osobné stretnutie s cvičiacim
 
