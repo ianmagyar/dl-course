@@ -60,7 +60,7 @@ V návrhu projektu popíšete tému, ktorú budete v rámci zadania riešiť. Od
 Cieľom návrhu je odštartovať váš výskum, prvé metodologické rozhodnutia nebudú striktne hodnotené. To znamená, že ak počas vývoja prídete na to, že niektoré vaše voľby boli nesprávne, pokojne ich môžete zmeniť. Samotnú tému však po odovzdaní návrhu by ste už nemali meniť. Po odovzdaní súboru musíte absolvovať aj osobné strenutie s cvičiacim, ktorý slúži na to, aby ste získali spätnú väzbu a prípadne ste prispôsobili obtiažnosť úlohy očakávaniam.
 
 ### Prehľad literatúry
-**Deadline:** do 12. 11.
+**Deadline:** do 26. 11.
 
 **Odovzdáte:** pdf súbor v šablóne článku
 
@@ -69,7 +69,7 @@ V ďalšej fáze riešenia sa zameráte na štúdium existujúcej literatúry a 
 Rozsah prehľadu má byť 3-4 stĺpce bez ohľadu na použitú šablónu. Pre správny odborný štýl dávajte si pozor pri čítaní článkov na to, ako sú prehľady napísané v nich, čo funguje a čo nefunguje. V prehľade by ste mali referencovať približne 20-30 článkov, pričom nezoberte iba vety z ich abstraktov alebo záverov, ale porovnávajte ich, diskutujte o nich a popíšte ich relevantnosť pre vašu prácu vlastnými slovami. Zamerajte sa na ich relevenciu pre vašu prácu.
 
 ### Prvé výsledky
-**Deadline:** do 1. 12.
+**Deadline:** do 8. 12.
 
 **Odovzdáte:** kód s celým postupom predspracovania údajov a trénovania modelu + súhrn skúseností a plán práce
 
