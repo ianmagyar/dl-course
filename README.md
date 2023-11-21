@@ -18,13 +18,13 @@ Pre aktuálne informácie ohľadom organizácie predmetu a komunikáciu s vyuču
 |   3. týždeň<br>9. 10. - 15. 10.  |                    [konvolučné siete v PyTorchi](labs/lab03-cnn.ipynb)                     |                                         |
 |   4. týždeň<br>16. 10. - 22. 10. |                       [DL training cookbook 1](labs/lab04-deep-learning-cookbook-1.ipynb)                       | prezentácia výskumného projektu         |
 |   5. týždeň<br>23. 10. - 29. 10. |                       [DL training cookbook 2](labs/lab05-deep-learning-cookbook-2.ipynb)                       | report k zadaniu 1                      |
-|   6. týždeň<br>30. 10. - 5. 11.  |           dataloadery, augmentácia údajov, práca s dátami          |                                         |
-|   7. týždeň<br>6. 11. - 12. 11.  |                   spracovanie prirodzeného jazyka                  | výskumný projekt - prehľad literatúry   |
+|   6. týždeň<br>30. 10. - 5. 11.  |      sviatok      |                                         |
+|   7. týždeň<br>6. 11. - 12. 11.  |   backpropagation    | výskumný projekt - prehľad literatúry   |
 |   8. týždeň<br>13. 11. - 19. 11. |               zápočtová písomka, prezentácia projektov             |                                         |
-|   9. týždeň<br>20. 11. - 26. 11. |             generovanie zvuku pomocou neurónových sietí            | odovzdanie prvého zadania               |
+|   9. týždeň<br>20. 11. - 26. 11. |                   [spracovanie prirodzeného jazyka](labs/lab07-natural-language-processing.ipynb)          | odovzdanie prvého zadania               |
 |  10. týždeň<br>27. 11. - 3. 12.  |               využitie rekurentných neurónových sietí              | výskumný projekt - prvé výsledky        |
-|  11. týždeň<br>4. 12. - 10. 12.  |                      self-supervised learning                      |                                         |
-|  12. týždeň<br>11. 12. - 17. 12. |                            transformery                            |                                         |
+|  11. týždeň<br>4. 12. - 10. 12.  |                            transformery                            |                                         |
+|  12. týždeň<br>11. 12. - 17. 12. |                      self-supervised learning                      |                                         |
 |  13. týždeň<br>18. 12. - 24. 12. |                  konzultácie, odovzdávanie zadaní                  | výskumný projekt - progress report      |
 
 ## Hodnotenie predmetu
