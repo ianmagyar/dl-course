@@ -3,29 +3,29 @@
 **Základy hĺbkového učenia** je predmet ponúkaný v zimnom semestri prvého ročníka inžinierskeho štúdia na Technickej univerzite v Košiciach pre študijný program Inteligentné systémy. Predmet je pokračovaním kurzu *Neurónové siete* a jeho cieľom je oboznámiť študentov so základmi, metodológiou a novými trendmi deep learningu, teda hlbokého učenia.
 
 ## Vyučujúci
- - [prof. Peter Sinčák](https://www.petersincak.com)
- - [Dr. Ján Magyar](http://www.cloudai.sk/people-janmagyar/)
+ - [prof. Ing. Peter Sinčák, CSc.](https://www.petersincak.com)
+ - [Ing. Ján Magyar, PhD.](https://cit.fei.tuke.sk/people-janmagyar/)
 
 ## Plán prednášok a cvičení
-Prednášky z predmetu sú vo švrtok o 13:30 v miestnosti V4_V102. Cvičenia sú každý utorok o 15:10 v miestnosti V4_010. Počas semestra má študent nárok na maximálne tri neúčasti.
+Prednášky z predmetu sú v utorok o 15:10 v miestnosti PK6_108 (PC17). Cvičenia sú v pondelok a stredu o 7:30 v miestnosti V4_010. Počas semestra má študent nárok na maximálne tri neúčasti.
 
 Pre aktuálne informácie ohľadom organizácie predmetu a komunikáciu s vyučujúcimi používajte MS Teams skupinu predmetu.
 
 |                                  |                            **Cvičenie**                            |              **Deadliny**               |
 |:--------------------------------:|:------------------------------------------------------------------:|:---------------------------------------:|
-|   1. týždeň<br>25. 9. - 1. 10.   |                úvod, opakovanie, pridelenie zadaní                 |                                         |
-|   2. týždeň<br>2. 10. - 8. 10.   |            [teória konvolúcie, implementácia v Pythone](labs/lab02-convolution.ipynb)              | výber článku k zadaniu 1                |
-|   3. týždeň<br>9. 10. - 15. 10.  |                    [konvolučné siete v PyTorchi](labs/lab03-cnn.ipynb)                     |                                         |
-|   4. týždeň<br>16. 10. - 22. 10. |                       [DL training cookbook 1](labs/lab04-deep-learning-cookbook-1.ipynb)                       | prezentácia výskumného projektu         |
-|   5. týždeň<br>23. 10. - 29. 10. |                       [DL training cookbook 2](labs/lab05-deep-learning-cookbook-2.ipynb)                       | report k zadaniu 1                      |
-|   6. týždeň<br>30. 10. - 5. 11.  |      sviatok      |                                         |
-|   7. týždeň<br>6. 11. - 12. 11.  |   backpropagation    |                                         |
-|   8. týždeň<br>13. 11. - 19. 11. |               zápočtová písomka, prezentácia projektov             |                                         |
-|   9. týždeň<br>20. 11. - 26. 11. |                   [spracovanie prirodzeného jazyka](labs/lab07-natural-language-processing.ipynb)          | výskumný projekt - prehľad literatúry   |
-|  10. týždeň<br>27. 11. - 3. 12.  |               [využitie rekurentných neurónových sietí](labs/lab08-sequential-data-with-rnn.ipynb)              | odovzdanie prvého zadania               |
-|  11. týždeň<br>4. 12. - 10. 12.  |                            [transformery](labs/lab09-transformers.ipynb)                            | výskumný projekt - prvé výsledky                |
-|  12. týždeň<br>11. 12. - 17. 12. |                      self-supervised learning                      |                                         |
-|  13. týždeň<br>18. 12. - 24. 12. |                  konzultácie, odovzdávanie zadaní                  | výskumný projekt - progress report      |
+|   1. týždeň<br>23. 9. - 29. 9.   |                úvod, opakovanie, pridelenie zadaní                 |                                         |
+|   2. týždeň<br>30. 9. - 6. 10.   |            teória konvolúcie, implementácia v Pythone              | výber článku k zadaniu 1                |
+|   3. týždeň<br>7. 10. - 13. 10.  |                    konvolučné siete v PyTorchi                     | prezentácia výskumného projektu         |
+|   4. týždeň<br>14. 10. - 20. 10. |                       DL training cookbook 1                       |                                         |
+|   5. týždeň<br>21. 10. - 27. 10. |                       DL training cookbook 2                       | report k zadaniu 1                      |
+|   6. týždeň<br>28. 10. - 3. 11.  |           dataloadery, augmentácia údajov, práca s dátami          |                                         |
+|   7. týždeň<br>4. 11. - 10. 11.  |               zápočtová písomka, prezentácia projektov             | výskumný projekt - prehľad literatúry   |
+|   8. týždeň<br>11. 11. - 17. 11. |                   spracovanie prirodzeného jazyka                  |                                         |
+|   9. týždeň<br>18. 11. - 24. 11. |               využitie rekurentných neurónových sietí              | odovzdanie prvého zadania               |
+|  10. týždeň<br>25. 11. - 1. 12.  |                            transformery                            | výskumný projekt - prvé výsledky        |
+|  11. týždeň<br>2. 12. - 8. 12.   |             generovanie zvuku pomocou neurónových sietí            |                                         |
+|  12. týždeň<br>9. 12. - 15. 12.  |                      self-supervised learning                      |                                         |
+|  13. týždeň<br>16. 12. - 22. 12. |                         odovzdávanie zadaní                        | výskumný projekt - progress report      |
 
 ## Hodnotenie predmetu
 Pre absolvovanie predmetu študent musí spĺňať nasledovné podmienky:
@@ -37,9 +37,8 @@ Pre absolvovanie predmetu študent musí spĺňať nasledovné podmienky:
 
 Počas semestra študenti môžu získať 40 bodov a to nasledovne:
 
-  - [Replikácia článku](assignments/assignment1.md) - 10 bodov
-  - [Semestrálny projekt](assignments/assignment2.md) - 15 bodov
-  - multimediálne spracovanie témy z hlbokého učenia - 5 bodov
+  - Replikácia článku - 10 bodov
+  - Semestrálny projekt - 20 bodov
   - zápočtová písomka - 10 bodov
 
 ## Ďalšie zdroje
