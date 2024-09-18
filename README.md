@@ -23,8 +23,8 @@ Pre aktuálne informácie ohľadom organizácie predmetu a komunikáciu s vyuču
 |   8. týždeň<br>11. 11. - 17. 11. |                   spracovanie prirodzeného jazyka                  |                                         |
 |   9. týždeň<br>18. 11. - 24. 11. |               využitie rekurentných neurónových sietí              | odovzdanie prvého zadania               |
 |  10. týždeň<br>25. 11. - 1. 12.  |                            transformery                            | výskumný projekt - prvé výsledky        |
-|  11. týždeň<br>2. 12. - 8. 12.   |             generovanie zvuku pomocou neurónových sietí            |                                         |
-|  12. týždeň<br>9. 12. - 15. 12.  |                      self-supervised learning                      |                                         |
+|  11. týždeň<br>2. 12. - 8. 12.   |                      self-supervised learning                      |                                         |
+|  12. týždeň<br>9. 12. - 15. 12.  |                       grafové neurónové siete                      |                                         |
 |  13. týždeň<br>16. 12. - 22. 12. |                         odovzdávanie zadaní                        | výskumný projekt - progress report      |
 
 ## Hodnotenie predmetu
@@ -37,8 +37,8 @@ Pre absolvovanie predmetu študent musí spĺňať nasledovné podmienky:
 
 Počas semestra študenti môžu získať 40 bodov a to nasledovne:
 
-  - Replikácia článku - 10 bodov
-  - Semestrálny projekt - 20 bodov
+  - [Replikácia článku](assignments/assignment1.md) - 10 bodov
+  - [Semestrálny projekt](assignments/assignment2.md) - 20 bodov
   - zápočtová písomka - 10 bodov
 
 ## Ďalšie zdroje
