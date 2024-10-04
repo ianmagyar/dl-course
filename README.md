@@ -15,7 +15,7 @@ Pre aktuálne informácie ohľadom organizácie predmetu a komunikáciu s vyuču
 |:--------------------------------:|:------------------------------------------------------------------:|:---------------------------------------:|
 |   1. týždeň<br>23. 9. - 29. 9.   |                úvod, opakovanie, pridelenie zadaní                 |                                         |
 |   2. týždeň<br>30. 9. - 6. 10.   |            [teória konvolúcie, implementácia v Pythone](labs/lab02-convolution.ipynb)              | výber článku k zadaniu 1                |
-|   3. týždeň<br>7. 10. - 13. 10.  |                    konvolučné siete v PyTorchi                     | prezentácia výskumného projektu         |
+|   3. týždeň<br>7. 10. - 13. 10.  |                    [konvolučné siete v PyTorchi](labs/lab03-cnn.ipynb)                     | prezentácia výskumného projektu         |
 |   4. týždeň<br>14. 10. - 20. 10. |                       DL training cookbook 1                       |                                         |
 |   5. týždeň<br>21. 10. - 27. 10. |                       DL training cookbook 2                       | report k zadaniu 1                      |
 |   6. týždeň<br>28. 10. - 3. 11.  |           dataloadery, augmentácia údajov, práca s dátami          |                                         |
