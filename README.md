@@ -18,7 +18,7 @@ Pre aktuálne informácie ohľadom organizácie predmetu a komunikáciu s vyuču
 |   3. týždeň<br>7. 10. - 13. 10.  |                    [konvolučné siete v PyTorchi](labs/lab03-cnn.ipynb)                     | prezentácia výskumného projektu         |
 |   4. týždeň<br>14. 10. - 20. 10. |                       [DL training cookbook 1](labs/lab04-deep-learning-cookbook-1.ipynb)                       |                                         |
 |   5. týždeň<br>21. 10. - 27. 10. |                       [DL training cookbook 2](labs/lab05-deep-learning-cookbook-2.ipynb)                       | report k zadaniu 1                      |
-|   6. týždeň<br>28. 10. - 3. 11.  |           dataloadery, augmentácia údajov, práca s dátami          |                                         |
+|   6. týždeň<br>28. 10. - 3. 11.  |                           [práca s dátami](labs/lab06-working-with-data.ipynb)          |                                         |
 |   7. týždeň<br>4. 11. - 10. 11.  |               zápočtová písomka, prezentácia projektov             | výskumný projekt - prehľad literatúry   |
 |   8. týždeň<br>11. 11. - 17. 11. |                   spracovanie prirodzeného jazyka                  |                                         |
 |   9. týždeň<br>18. 11. - 24. 11. |               využitie rekurentných neurónových sietí              | odovzdanie prvého zadania               |
