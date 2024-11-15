@@ -21,7 +21,7 @@ Pre aktuálne informácie ohľadom organizácie predmetu a komunikáciu s vyuču
 |   6. týždeň<br>28. 10. - 3. 11.  |                           [práca s dátami](labs/lab06-working-with-data.ipynb)          |                                         |
 |   7. týždeň<br>4. 11. - 10. 11.  |               zápočtová písomka, prezentácia projektov             | výskumný projekt - prehľad literatúry   |
 |   8. týždeň<br>11. 11. - 17. 11. |                   [spracovanie prirodzeného jazyka](labs/lab07-natural-language-processing.ipynb)                  |                                         |
-|   9. týždeň<br>18. 11. - 24. 11. |               využitie rekurentných neurónových sietí              | odovzdanie prvého zadania               |
+|   9. týždeň<br>18. 11. - 24. 11. |               [využitie rekurentných neurónových sietí](labs/lab08-sequential-data-with-rnn.ipynb)              | odovzdanie prvého zadania               |
 |  10. týždeň<br>25. 11. - 1. 12.  |                            transformery                            | výskumný projekt - prvé výsledky        |
 |  11. týždeň<br>2. 12. - 8. 12.   |                      self-supervised learning                      |                                         |
 |  12. týždeň<br>9. 12. - 15. 12.  |                       grafové neurónové siete                      |                                         |
