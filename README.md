@@ -22,8 +22,8 @@ Pre aktuálne informácie ohľadom organizácie predmetu a komunikáciu s vyuču
 |   7. týždeň<br>4. 11. - 10. 11.  |               zápočtová písomka, prezentácia projektov             | výskumný projekt - prehľad literatúry   |
 |   8. týždeň<br>11. 11. - 17. 11. |                   [spracovanie prirodzeného jazyka](labs/lab07-natural-language-processing.ipynb)                  |                                         |
 |   9. týždeň<br>18. 11. - 24. 11. |               [využitie rekurentných neurónových sietí](labs/lab08-sequential-data-with-rnn.ipynb)              | odovzdanie prvého zadania               |
-|  10. týždeň<br>25. 11. - 1. 12.  |                            transformery                            | výskumný projekt - prvé výsledky        |
-|  11. týždeň<br>2. 12. - 8. 12.   |                      self-supervised learning                      |                                         |
+|  10. týždeň<br>25. 11. - 1. 12.  |                           projektová práca                         | výskumný projekt - prvé výsledky        |
+|  11. týždeň<br>2. 12. - 8. 12.   |                            [transformery](labs/lab09-transformers.ipynb)                            |                                         |
 |  12. týždeň<br>9. 12. - 15. 12.  |                       grafové neurónové siete                      |                                         |
 |  13. týždeň<br>16. 12. - 22. 12. |                         odovzdávanie zadaní                        | výskumný projekt - progress report      |
 
