@@ -24,7 +24,7 @@ Pre aktuálne informácie ohľadom organizácie predmetu a komunikáciu s vyuču
 |   9. týždeň<br>18. 11. - 24. 11. |               [využitie rekurentných neurónových sietí](labs/lab08-sequential-data-with-rnn.ipynb)              | odovzdanie prvého zadania               |
 |  10. týždeň<br>25. 11. - 1. 12.  |                           projektová práca                         | výskumný projekt - prvé výsledky        |
 |  11. týždeň<br>2. 12. - 8. 12.   |                            [transformery](labs/lab09-transformers.ipynb)                            |                                         |
-|  12. týždeň<br>9. 12. - 15. 12.  |                       grafové neurónové siete                      |                                         |
+|  12. týždeň<br>9. 12. - 15. 12.  |                       [grafové neurónové siete](labs/lab10-gnn.ipynb)                      |                                         |
 |  13. týždeň<br>16. 12. - 22. 12. |                         odovzdávanie zadaní                        | výskumný projekt - progress report      |
 
 ## Hodnotenie predmetu
