@@ -1,14 +1,14 @@
 # Zadanie 2
 
-V rámci cvičení získate prehľad o rôznych metódach využívaných v hlbokom učení ako aj o metodológii a praktikách, ktoré slúžia na vylepšenie výkonu modelov. Druhé zadanie vám poskytne príležitosť využiť tieto poznatky pri riešení reálneho problému. Na zadaní pracujú trojice. Polovicu bodov (20) získate do zápočtu, kým ďalších 20 bodov sa ráta ako praktická časť skúšky. Na vylepšení výsledkov teda môžete pracovať aj po ukončení semestra. Očakávanie je, že pri odovzdaní budete mať publikovateľné výsledky, ktoré môžu byť prospešné aj pre širšiu vedeckú komunitu.
+V rámci cvičení získate prehľad o rôznych metódach využívaných v hlbokom učení ako aj o metodológii a praktikách, ktoré slúžia na vylepšenie výkonu modelov. Druhé zadanie vám poskytne príležitosť využiť tieto poznatky pri riešení reálneho problému. Na zadaní pracujú štvorice a pätice. Polovicu bodov (20) získate do zápočtu, kým ďalších 20 bodov sa ráta ako praktická časť skúšky. Na vylepšení výsledkov teda môžete pracovať aj po ukončení semestra. Očakávanie je, že pri odovzdaní budete mať publikovateľné výsledky, ktoré môžu byť prospešné aj pre širšiu vedeckú komunitu.
 
 ## Téma projektu
 
-V rámci zadania navrhujete tému sami, odporúčame však vybrať si problematiku, ktorá vás zaujíma a máte motiváciu ju riešiť, na druhej strane však predstavuje aj výzvu, aby ste pri jej riešení získali skúsenosti a nové vedomosti. Projekt môže byť **aplikačný**, kde preskúmate možnosti využitia hlbokého učenia pri riešení praktického problému, alebo **výskumný**, kde sa zameráte na návrh nových alebo vylepšenie existujúcich metód hlbokého učenia pre vyriešenie štandardného problému.
+V rámci zadania môžete si sami navrhnúť tému, alebo môžete si vybrať z niekoľkých preddefinovaných úloh, odporúčame však vybrať si problematiku, ktorá vás zaujíma a máte motiváciu ju riešiť, na druhej strane však predstavuje aj výzvu, aby ste pri jej riešení získali skúsenosti a nové vedomosti. Projekt môže byť **aplikačný**, kde preskúmate možnosti využitia hlbokého učenia pri riešení praktického problému, alebo **výskumný**, kde sa zameráte na návrh nových alebo vylepšenie existujúcich metód hlbokého učenia pre vyriešenie štandardného problému. Pri aplikačnom projekte sa očakáva zabudovanie hotového modelu do používateľskej aplikácie, pričom pri výskumnom projekte musíte vaše výsledky porovnať s aspoň tromi metódami z existujúcej literatúry.
 
-Pri výbere témy vychádzajte buď z vlastných záujmov, alebo nájdite oblasť hlbokého učenia, ktorá vás zaujme a chceli by ste ju lepšie preskúmať. Keďže na zadaní budete pracovať celý semester a časť skúškového obdobia, je kritické, aby ste robili na niečom, čo vás baví. Ak popri škole už pracujete, môžete sa inšpirovať aj problémami, ktoré riešite v práci, a nájsť možnosti využitia hlbokého učenia pri ich riešení. V takomto prípade si však dávajte pozor na prípadné citlivé dáta: keďže existuje možnosť publikovania vašich výsledkov, aj dáta musia byť verejne dostupné alebo zverejniteľné (ak napríklad v práci máte dataset, ktorý nemôžete použiť, skúste nájsť obdobné verejné dáta).
+Pri výbere témy vychádzajte buď z vlastných záujmov, alebo nájdite oblasť hlbokého učenia, ktorá vás zaujme a chceli by ste ju lepšie preskúmať. Keďže na zadaní budete pracovať celý semester a časť skúškového obdobia, je kritické, aby ste robili na niečom, čo vás baví. Ak popri škole už pracujete, môžete sa inšpirovať aj problémami, ktoré riešite v práci, a nájsť možnosti využitia hlbokého učenia pri ich riešení. V takomto prípade si však dávajte pozor na prípadné citlivé dáta: keďže existuje možnosť publikovania vašich výsledkov, aj dáta musia byť verejne dostupné alebo zverejniteľné (ak napríklad v zamestnaní pracujete s datasetom, ktorý nemôžete použiť, skúste nájsť obdobné verejné dáta).
 
-**Ako semestrálny projekt nemôžete použiť riešenie vypracované v rámci predmetu Tímový projekt.** Ak ale viete navrhnúť rozšírenie tamojšieho riešenia na očakávanej úrovni zložitosti, takéto riešenie možné je, prekonzultujte to však s vyučujúcimi.
+**Ako semestrálny projekt nemôžete použiť riešenie vypracované v rámci predmetu Tímový projekt.** Ak ale viete navrhnúť rozšírenie tamojšieho riešenia na očakávanej úrovni zložitosti, takéto riešenie možné je, prekonzultujte to však s vyučujúcim.
 
 ### Ako si navrhnúť tému?
 
@@ -20,11 +20,11 @@ Ak hľadáte inšpiráciu, môžete si naštudovať články vydané na špičko
  * **dáta** - aj keď vytvorenie vlastného datasetu je zdĺhavý proces, ktorý vás uberie o cenný čas, neodporúčame ani druhý extrém, kde budete pracovať iba s úplne pripravenými dátami. V ideálnom prípade by ste mali použiť dostupný dataset, ktorý však potrebujete predspracovať, rozšíriť, augmentovať alebo iným spôsobom upraviť. Tak sa naučíte najviac aj o práce s dátami, ktorá je kritickou súčasťou vývoja riešení hlbokého učenia.
  * **pridaná hodnota vs replikácia výsledkov** - vzhľadom na to, že vaše výsledky by mali byť publikovateľné, je jasné, že potrebujete preukázať vlastnú tvorbu, teda niečo, čo ešte nikto pred vami neurobil. Práve preto nie je vhodné, aby ste v rámci zadania iba zreplikovali výsledky existujúcich článkov (na to máme osobitné zadanie). Samozrejme to neznamená, že by ste nemohli vychádzať z dostupnej literatúry, ale vašu prácu musíte jednoznačne odlíšiť od existujúceho stavu riešenia problematiky.
 
-Ak počas výberu a návrhu témy budete mať akékoľvek ďalšie otázky, obráťte sa na vyučujúcich.
+Ak počas výberu a návrhu témy budete mať akékoľvek ďalšie otázky, obráťte sa na vyučujúceho.
 
 ## Očakávané výstupy a pracovný plán
 
-Na projekte pracuje trojica študentov. Práca musí byť zdokumentovaná priebežne vo forme git repozitáru, ktorý zazdieľate cvičiacemu (školský gitlab alebo github). Pre dokumentáciu vo forme článku použite LaTeX, odporúčame použiť Overleaf pre zdieľanie projektov (pridajte aj cvičiaceho). Pre formátovanie článku odporúčame použiť šablónu IEEE, prípadne ak nájdete časopis, v ktorom by ste chceli vašu prácu publikovať, tak môžete použiť ich šablónu.
+Na projekte pracujete v skupinách 4-5 študentov. Práca musí byť zdokumentovaná priebežne vo forme git repozitáru, ktorý zazdieľate cvičiacemu (školský gitlab alebo github). Pre dokumentáciu vo forme článku použite LaTeX, odporúčame použiť Overleaf pre zdieľanie projektov (pridajte aj cvičiaceho). Pre formátovanie článku odporúčame použiť šablónu IEEE, prípadne ak nájdete časopis, v ktorom by ste chceli vašu prácu publikovať, tak môžete použiť ich šablónu.
 
 Za zadanie môžete získať spolu **40** bodov, z toho 20 sa ráta do zápočtu a 20 do skúšky, pri hodnotení berieme do úvahy:
 
@@ -36,16 +36,16 @@ Aby sme vašu prácu mohli hodnotiť objektívne a férovo, je dôležité, aby 
 
 Pre zabezpečenie systematickej práce sme zadefinovali niekoľko míľnikov a odovzdávok. Od vyučujúcich dostanete spätnú väzbu po každej odovzdávke a môžete ich poprosiť o pomoc a názor hocikedy počas riešenia projektu:
 
- 1. návrh projektu - do 11. 10. - spísaný súhrn a stretnutie s cvičiacim
- 2. prehľad literatúry - do 10. 11. - spísaný v šablóne
- 3. prvé výsledky - do 1. 12. - kód: existujúci pipeline, krátke zhrnutie prvých skúseností
- 4. progress report - do 20. 12. - zhrnutie dosiahnutých výsledkov a návrh ďalšieho postupu; stretnutie s cvičiacim
+ 1. návrh projektu - do 10. 10. - spísaný súhrn a stretnutie s cvičiacím
+ 2. prehľad literatúry - do 9. 11. - spísaný v šablóne
+ 3. prvé výsledky - do 23. 11. - kód: existujúci pipeline, krátke zhrnutie prvých skúseností
+ 4. progress report - do 19. 12. - zhrnutie dosiahnutých výsledkov a návrh ďalšieho postupu; stretnutie s cvičiacim
  5. finálna odovzdávka - začiatok skúškového obdobia - súčasť skúšky
 
 ### Návrh projektu
-**Deadline:** do 11. 10.
+**Deadline:** do 10. 10.
 
-**Odovzdáte:** pdf súbor + osobné stretnutie s cvičiacim
+**Odovzdáte:** pdf súbor + osobné stretnutie s cvičiacím
 
 V návrhu projektu popíšete tému, ktorú budete v rámci zadania riešiť. Odovzdáte pritom pdf súbor (1-2 strany A4, cca. 500 slov), ktorý obsahuje:
 
@@ -57,10 +57,10 @@ V návrhu projektu popíšete tému, ktorú budete v rámci zadania riešiť. Od
  * Ako budete vyhodnocovať vaše výsledky (metriky, analýza, atď.)? Ako definujete "dobré" a "neúspešné" výsledky?
  * Súbor ďalej môže obsahovať aj odkazy na datasety a/alebo články, ktoré ste našli.
 
-Cieľom návrhu je odštartovať váš výskum, prvé metodologické rozhodnutia nebudú striktne hodnotené. To znamená, že ak počas vývoja prídete na to, že niektoré vaše voľby boli nesprávne, pokojne ich môžete zmeniť. Samotnú tému však po odovzdaní návrhu by ste už nemali meniť. Po odovzdaní súboru musíte absolvovať aj osobné strenutie s cvičiacim, ktorý slúži na to, aby ste získali spätnú väzbu a prípadne ste prispôsobili obtiažnosť úlohy očakávaniam.
+Cieľom návrhu je odštartovať váš výskum, prvé metodologické rozhodnutia nebudú striktne hodnotené. To znamená, že ak počas vývoja prídete na to, že niektoré vaše voľby boli nesprávne, pokojne ich môžete zmeniť. Samotnú tému však po odovzdaní návrhu by ste už nemali meniť. Po odovzdaní súboru musíte absolvovať aj osobné strenutie s cvičiacím, ktoré slúži na to, aby ste získali spätnú väzbu a prípadne ste prispôsobili obtiažnosť úlohy očakávaniam.
 
 ### Prehľad literatúry
-**Deadline:** do 10. 11.
+**Deadline:** do 9. 11.
 
 **Odovzdáte:** pdf súbor v šablóne článku
 
@@ -69,14 +69,14 @@ V ďalšej fáze riešenia sa zameráte na štúdium existujúcej literatúry a 
 Rozsah prehľadu má byť 3-4 stĺpce bez ohľadu na použitú šablónu. Pre správny odborný štýl dávajte si pozor pri čítaní článkov na to, ako sú prehľady napísané v nich, čo funguje a čo nefunguje. V prehľade by ste mali referencovať primeraný počet článkov (minimálne 20-30), pričom nezoberte iba vety z ich abstraktov alebo záverov, ale porovnávajte ich, diskutujte o nich vlastnými slovami a zamerajte sa na ich relevantnosť pre vašu prácu.
 
 ### Prvé výsledky
-**Deadline:** do 1. 12.
+**Deadline:** do 23. 11.
 
 **Odovzdáte:** kód s celým postupom predspracovania údajov a trénovania modelu + súhrn skúseností a plán práce
 
 Tretí míľnik zadania sa skladá z pripraveného skriptu pre spracovanie dát, definície a trénovania modelu s jednoduchým vyhodnocovaním. Zatiaľ nemusíte použiť finálny dataset a definitívnu podobu modelu, ide o to, aby ste získali skúsenosti a lepší odhad toho, čo obnáša vývoj finálneho riešenia. Na základe týchto skúseností spíšte krátky dokument (jedna strana A4), kde v jednom odseku napíšete vaše prvé skúsenosti -  na aké problémy ste narazili, ako ste ich riešili, aké problémy ešte pretrvávajú, a pod. Zároveň napíšte aj plán práce pre ďalší postup - čo ešte potrebujete urobiť do finálnej odovzdávky.
 
 ### Progress Report
-**Deadline:** do 20. 12.
+**Deadline:** do 19. 12.
 
 **Odovzdáte:** pdf súbor s metodológiou a dosiahnutými výsledkami + prezentácia projektu
 
