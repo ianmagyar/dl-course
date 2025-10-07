@@ -1,5 +1,7 @@
 # Zadanie 2
 
+[Ukážkové témy nájdete tu](A2_topics.md)
+
 V rámci cvičení získate prehľad o rôznych metódach využívaných v hlbokom učení ako aj o metodológii a praktikách, ktoré slúžia na vylepšenie výkonu modelov. Druhé zadanie vám poskytne príležitosť využiť tieto poznatky pri riešení reálneho problému. Na zadaní pracujú štvorice a pätice. Polovicu bodov (20) získate do zápočtu, kým ďalších 20 bodov sa ráta ako praktická časť skúšky. Na vylepšení výsledkov teda môžete pracovať aj po ukončení semestra. Očakávanie je, že pri odovzdaní budete mať publikovateľné výsledky, ktoré môžu byť prospešné aj pre širšiu vedeckú komunitu.
 
 ## Téma projektu

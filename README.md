@@ -45,5 +45,5 @@ Pre absolvovanie predmetu študent musí spĺňať nasledovné podmienky:
 Počas semestra študenti môžu získať 40 bodov a to nasledovne:
 
   - [Replikácia článku](assignments/assignment1.md) - 10 bodov
-  - [Semestrálny projekt](assignments/assignment2.md) - 20 bodov
+  - [Semestrálny projekt](assignments/assignment2.md) ([Ukážkové témy nájdete tu](assignments/A2_topics.md)) - 20 bodov
   - zápočtová písomka - 10 bodov
