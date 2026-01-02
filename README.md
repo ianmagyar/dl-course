@@ -42,6 +42,8 @@ Pre absolvovanie predmetu študent musí spĺňať nasledovné podmienky:
 3. získať minimálne 21 bodov do zápočtu
 4. prejsť skúškou (získať minimálne 31 bodov)
 
+[Okruhy tém na skúšku nájdete tu.](exam_questions.md)
+
 Počas semestra študenti môžu získať 40 bodov a to nasledovne:
 
   - [Replikácia článku](assignments/assignment1.md) - 10 bodov
